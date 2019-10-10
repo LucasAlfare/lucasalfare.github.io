@@ -18,9 +18,10 @@ const TARGET_INDICES = {
 };
 
 function getAcoes(laudo) {
-    laudo = laudo.replace(/\./g, "");
-    laudo = laudo.replace(/,/g, ".");
-    let nums = laudo.match(/[\d.]+/g);
+    let nums = laudo
+        .replace(/\./g, "")
+        .replace(/,/g, ".")
+        .match(/[\d.]+/g);
     let acoes = [];
 
     function resultadoParametro(key) {
