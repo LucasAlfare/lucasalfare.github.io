@@ -55,7 +55,6 @@ function getAcoes(laudo) {
     }
 
     if (resultadoParametro('neutrofilos').r === -1){
-        console.log(resultadoParametro('neutrofilos').resultadoParam);
         acoes.push("neutropenia");
     } else if (resultadoParametro('neutrofilos').r === 1){
         acoes.push("neutrofilia");
@@ -69,12 +68,20 @@ function getAcoes(laudo) {
         acoes.push("basofilia");
     }
 
+    if (resultadoParametro('linfocitos').r === -1){
+        acoes.push("linfocitopenia");
+    } else if (resultadoParametro('linfocitos').r === 1) {
+        acoes.push("linfocitose");
+    }
+
     let aux = resultadoParametro('plaquetas');
     if (aux.r === -1){
         if (aux.resultadoParam < 100000){
             acoes = ["NÃO LIBERA, PLAQUETAS MUITO BAIXAS!"];
         } else if (aux.resultadoParam > (aux.min - 2000)){
-            acoes.push("altere o valor das plaquetas para 150000")
+            acoes.push("altere o valor das plaquetas para 150000");
+        } else {
+            acoes.push("trombocitopenia");
         }
     } else if (aux.r === 1){
         if (aux.resultadoParam > 700000){
