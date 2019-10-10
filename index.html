@@ -7,20 +7,24 @@
     <script>
         function exibir() {
             const laud = document.getElementById("digitacao").value;
-            let l = getAcoes(laud);//
+            let r = "";
+            let l = getAcoes(laud);
             for (let i = 0; i < l.length; i++) {
-                document.body += (l[i] + "\n");
+                r += l[i] + "<br>";
             }
+            let oi = document.getElementById("saida");
+            oi.innerHTML = r === "" ? "TUDO CERTO NOS LEUCO E PLAQ..." : r;
         }
     </script>
 </head>
 <body>
-<label for="digitacao">
-    Cole o laudo aqui:
-</label>
-<br>
-<input id="digitacao" type="text"/>
-<br>
-<button id="btteste" onclick=exibir()>Analisar o laudo!</button>
+    <label for="digitacao">
+        Cole o laudo aqui:
+    </label>
+    <br>
+    <input id="digitacao" type="text"/>
+    <br>
+    <button id="btteste" onclick=exibir()>Analisar o laudo!</button>
+    <div id="saida"></div>
 </body>
 </html>
