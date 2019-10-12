@@ -18,16 +18,13 @@ const TARGET_INDICES = {
 };
 
 function getAcoes(laudo) {
-    let nums = laudo
-        .replace(/\./g, "")
-        .replace(/,/g, ".")
-        .match(/[\d.]+/g);
+    let nums = laudo.replace(/\./g, "").replace(/,/g, ".").match(/[\d.]+/g);
     let acoes = [];
 
-    function resultadoParametro(key) {
-        const resultadoParam = parseFloat(nums[TARGET_INDICES[key][0]]);
-        const min = parseFloat(nums[TARGET_INDICES[key][1]]);
-        const max = parseFloat(nums[TARGET_INDICES[key][2]]);
+    function resultadoParametro(chave) {
+        const resultadoParam = parseFloat(nums[TARGET_INDICES[chave][0]]);
+        const min = parseFloat(nums[TARGET_INDICES[chave][1]]);
+        const max = parseFloat(nums[TARGET_INDICES[chave][2]]);
 
         //[alto/normal/baixo, resultado, refMin, refMax]
         return {
@@ -48,43 +45,43 @@ function getAcoes(laudo) {
      */
 
     //LEUCOGRAMA
-    if (resultadoParametro('leucocitos').r === -1){
+    if (resultadoParametro('leucocitos').r === -1) {
         acoes.push("leucopenia");
-    } else if (resultadoParametro('leucocitos').r === 1){
+    } else if (resultadoParametro('leucocitos').r === 1) {
         acoes.push("leucocitose");
     }
 
-    if (resultadoParametro('neutrofilos').r === -1){
+    if (resultadoParametro('neutrofilos').r === -1) {
         acoes.push("neutropenia");
-    } else if (resultadoParametro('neutrofilos').r === 1){
+    } else if (resultadoParametro('neutrofilos').r === 1) {
         acoes.push("neutrofilia");
     }
 
-    if (resultadoParametro('eosinofilos').r === 1){
+    if (resultadoParametro('eosinofilos').r === 1) {
         acoes.push("eosinofilia");
     }
 
-    if (resultadoParametro('basofilos').r === 1){
+    if (resultadoParametro('basofilos').r === 1) {
         acoes.push("basofilia");
     }
 
-    if (resultadoParametro('linfocitos').r === -1){
+    if (resultadoParametro('linfocitos').r === -1) {
         acoes.push("linfocitopenia");
     } else if (resultadoParametro('linfocitos').r === 1) {
         acoes.push("linfocitose");
     }
 
     let aux = resultadoParametro('plaquetas');
-    if (aux.r === -1){
-        if (aux.resultadoParam < 100000){
+    if (aux.r === -1) {
+        if (aux.resultadoParam < 100000) {
             acoes = ["NÃO LIBERA, PLAQUETAS MUITO BAIXAS!"];
-        } else if (aux.resultadoParam > (aux.min - 2000)){
+        } else if (aux.resultadoParam > (aux.min - 2000)) {
             acoes.push("altere o valor das plaquetas para 150000");
         } else {
             acoes.push("trombocitopenia");
         }
-    } else if (aux.r === 1){
-        if (aux.resultadoParam > 700000){
+    } else if (aux.r === 1) {
+        if (aux.resultadoParam > 700000) {
             acoes = ["NÃO LIBERA, PLAQUETAS MUITO ALTAS!"];
         } else {
             acoes.push("trombocitose");
