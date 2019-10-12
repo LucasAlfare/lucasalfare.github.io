@@ -86,6 +86,8 @@ function getAcoes(laudo) {
     } else if (aux.r === 1){
         if (aux.resultadoParam > 700000){
             acoes = ["NÃO LIBERA, PLAQUETAS MUITO ALTAS!"];
+        } else {
+            acoes.push("trombocitose");
         }
     }
 
