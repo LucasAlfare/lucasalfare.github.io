@@ -17,6 +17,7 @@ const TARGET_INDICES = {
     'plaquetas': [86, 87, 88]
 };
 
+//
 function getAcoes(laudo) {
     let nums = laudo.replace(/\./g, "").replace(/,/g, ".").match(/[\d.]+/g);
     let acoes = [];
