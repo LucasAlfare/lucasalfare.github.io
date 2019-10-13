@@ -14,7 +14,9 @@ function handleButtonEnviar(e) {
     let r = "";
     let l = getAcoes(laud);
     for (let i = 0; i < l.length; i++) {
-        r += l[i] + "<br>";
+        if (l[i] !== "") {
+            r += `- ${l[i]}<br>;`
+        }
     }
 
     output.innerHTML = r === "" ? "TUDO CERTO NOS LEUCO E PLAQ..." : r;
