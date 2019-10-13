@@ -9,7 +9,7 @@ body {
 .app {
     max-width: 40rem;
     height: 100%;
-    border: solid 8px #222;
+    border: solid 8px #000000;
     margin: 1rem auto;
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ body {
     text-align: center;
     font-size: 3rem;
     margin-top: 0.001rem;
-    background: #5E5E5E;
+    background: rgba(94, 94, 94, 0.09);
 }
 
 form {
@@ -44,12 +44,12 @@ form {
     margin: 1rem;
     padding: 0.5rem;
     background: #FFF;
-    border: solid 3px #222;
+    border: solid 3px #000000;
     min-height: 5rem;
     max-height: 350px;
     overflow-y: scroll;
 }
 
 .app.focado {
-    background: purple;
+    background: #c000c0;
 }

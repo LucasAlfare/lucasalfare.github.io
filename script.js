@@ -7,14 +7,14 @@ const html = document.querySelector('html');
 
 function handleButtonEnviar(e) {
     e.preventDefault();
-    //  O preventDefault é obrigatório, em baixo dele pode colocar o código q quiser
-    // output.innerText = resultadoQueVoceQuer
 
     const laud = laudo.value;
     let r = "";
     let l = getAcoes(laud);
     for (let i = 0; i < l.length; i++) {
-        r += l[i] + "<br>";
+        if (l[i] !== "") { //
+            r += `- ${l[i]};<br>`
+        }
     }
 
     output.innerHTML = r === "" ? "TUDO CERTO NOS LEUCO E PLAQ..." : r;
@@ -33,7 +33,6 @@ function handleOutputFoco(e) {
         app.classList.remove('focado');
     }
 }
-
 
 html.addEventListener('click', handleOutputFoco);
 enviar.addEventListener('click', handleButtonEnviar);
