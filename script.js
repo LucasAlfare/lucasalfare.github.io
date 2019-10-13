@@ -7,8 +7,6 @@ const html = document.querySelector('html');
 
 function handleButtonEnviar(e) {
     e.preventDefault();
-    //  O preventDefault é obrigatório, em baixo dele pode colocar o código q quiser
-    // output.innerText = resultadoQueVoceQuer
 
     const laud = laudo.value;
     let r = "";
@@ -35,7 +33,6 @@ function handleOutputFoco(e) {
         app.classList.remove('focado');
     }
 }
-
 
 html.addEventListener('click', handleOutputFoco);
 enviar.addEventListener('click', handleButtonEnviar);
