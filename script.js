@@ -3,7 +3,7 @@ const limpar = document.getElementById('limpar');
 const laudo = document.getElementById('laudo');
 const output = document.getElementById('output');
 const app = document.querySelector('.app');
-const body = document.querySelector('body');
+const html = document.querySelector('html');
 
 function handleButtonEnviar(e) {
     e.preventDefault();
@@ -34,6 +34,7 @@ function handleOutputFoco(e) {
     }
 }
 
-output.addEventListener('click', handleOutputFoco);
+
+html.addEventListener('click', handleOutputFoco);
 enviar.addEventListener('click', handleButtonEnviar);
 limpar.addEventListener('click', handleButtonLimpar);
