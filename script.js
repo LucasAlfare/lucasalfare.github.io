@@ -27,8 +27,8 @@ function handleButtonLimpar(e) {
 }
 
 function handleOutputFoco(e) {
-    if (e.target === output) {
-        app.classList.toggle('focado');
+    if (app.contains(e.target)) {
+        app.classList.add('focado');
     } else {
         app.classList.remove('focado');
     }
