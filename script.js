@@ -66,7 +66,7 @@ function handleButtonColar(e) {
             laudo.value = text;
         })
 }
-
+//Isso talvez seja um comentário
 html.addEventListener('click', handleOutputFoco);
 // html.addEventListener('keydown', handleKeyboard);
 
