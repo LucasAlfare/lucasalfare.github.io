@@ -38,7 +38,7 @@ function handleButtonEnviar(e) {
     let l = getAcoes(laud);
     for (let i = 0; i < l.length; i++) {
         if (l[i] !== "") { //
-            r += `- ${l[i]};<br>`
+            r += `- ${l[i]};<br>`;
         }
     }
 
