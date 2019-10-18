@@ -34,10 +34,21 @@ form {
 
 .buttons button {
     height: 50%;
+    border-radius: 3px;
+    text-transform: lowercase;
+    padding: 2px 8px;
+    border: 1px solid #CCC;
+    font-family: Verdana, sans-serif;
+    font-size: 9px;
+    white-space: nowrap;
+    text-decoration: none;
 }
 
 #laudo {
     resize: none;
+    color: #333;
+    padding: 2px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 }
 
 #output {
