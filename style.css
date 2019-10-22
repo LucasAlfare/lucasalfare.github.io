@@ -65,3 +65,8 @@ form {
 .app.focado {
     background: #c000c0;
 }
+
+.app h1.focado {
+    color: #FFFFFF
+}
+

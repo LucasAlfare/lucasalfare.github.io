@@ -54,10 +54,14 @@ function handleButtonLimpar(e) {
 function handleOutputFoco(e) {
     if (app.contains(e.target)) {
         app.classList.add('focado');
+        app.querySelector('h1').classList.add('focado');
+
     } else {
         app.classList.remove('focado');
+        app.querySelector('h1').classList.remove('focado');
+
     }
-}
+}1
 
 function handleButtonColar(e) {
     e.preventDefault();
