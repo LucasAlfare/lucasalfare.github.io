@@ -42,6 +42,11 @@ form {
     font-size: 9px;
     white-space: nowrap;
     text-decoration: none;
+    background:linear-gradient(to bottom,#cecece 0% , #FFF);
+}
+
+.buttons button:hover {
+    background: linear-gradient(to top,#cecece 0% , #FFF);
 }
 
 /*Isso talvez seja um comentário*/
@@ -69,4 +74,3 @@ form {
 .app h1.focado {
     color: #FFFFFF
 }
-
