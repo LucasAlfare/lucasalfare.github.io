@@ -40,13 +40,15 @@ form {
     border: 1px solid #CCC;
     font-family: Verdana, sans-serif;
     font-size: 9px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     white-space: nowrap;
     text-decoration: none;
     background:linear-gradient(to bottom,#cecece 0% , #FFF);
 }
 
 .buttons button:hover {
-    background: linear-gradient(to top,#cecece 0% , #FFF);
+    background: linear-gradient(to top,#cecece 0% , #A73193);
 }
 
 /*Isso talvez seja um comentário*/
