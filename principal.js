@@ -38,7 +38,7 @@ function getAcoes(laudo) {
 
         /*
         TODO: (TUDO DO ERITROGRAMA)
-            - hemacias em alvo (. a +);
+            - hemacias em alvo (0 a +);
             - anisocitose (+ a +++);
             - anisopoiquilocitose (+ a ++);
             - hopocromia (+ a +++);
