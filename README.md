@@ -1,3 +1,3 @@
 # lucasalfare.github.io
 
-[link para a página](lucasalfare.github.io)
+[Link para a pagina](https://lucasalfare.github.io/)
