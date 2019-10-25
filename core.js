@@ -39,11 +39,13 @@ function getAcoes(laudo) {
 
         /*
         TODO: (TUDO DO ERITROGRAMA)
-            - DETECTAR CRUZES (+++) DO RESULTADO:
-                - ANISOCITOSE;
-                - ANISOPOIQUILOCITOSE;
-                - OLIGOCREMIA;
-                - HIPOCROMIA E MICROCITOSE
+            - hemacias em alvo (. a +);
+            - anisocitose (+ a +++);
+            - anisopoiquilocitose (+ a ++);
+            - hopocromia (+ a +++);
+            - microcitose (+);
+            - hopocromia e microcitose (+ a ++);
+            - oligocitose e oligocrememia.
          */
 
         //LEUCOGRAMA
