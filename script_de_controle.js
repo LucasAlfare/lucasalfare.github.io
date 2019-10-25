@@ -6,7 +6,6 @@ const output = document.getElementById('output');
 const app = document.querySelector('.app');
 const html = document.querySelector('html');
 
-
 // Experimental - Checar CTRL V e CTRL C
 /*let ctrlPressed = false;
 function handleKeyboard(e) {
@@ -55,11 +54,9 @@ function handleOutputFoco(e) {
     if (app.contains(e.target)) {
         app.classList.add('focado');
         app.querySelector('h1').classList.add('focado');
-
     } else {
         app.classList.remove('focado');
         app.querySelector('h1').classList.remove('focado');
-
     }
 }
 
@@ -68,7 +65,7 @@ function handleButtonColar(e) {
     navigator.clipboard.readText()
         .then(text => {
             laudo.value = text;
-        })
+        });
 }
 //Isso talvez seja um comentário
 html.addEventListener('click', handleOutputFoco);
