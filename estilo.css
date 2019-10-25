@@ -1,9 +1,9 @@
 * {
-    box-sizing: border-box;
+    box-sizing: border-box
 }
 
 body {
-    background: white;
+    background: white
 }
 
 .app {
@@ -87,7 +87,7 @@ form {
 }
 
 .app.focado {
-    background: #A73193;
+    background: #A73193
 }
 
 .app h1.focado {
