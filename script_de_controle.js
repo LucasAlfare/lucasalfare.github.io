@@ -41,7 +41,7 @@ function handleButtonEnviar(e) {
         }
     }
 
-    output.innerHTML = r === "" ? "TUDO CERTO NOS LEUCO E PLAQ..." : r;
+    output.innerHTML = r === "" ? "Leucocitos e Plaquetas OK." : r;
 }
 
 function handleButtonLimpar(e) {

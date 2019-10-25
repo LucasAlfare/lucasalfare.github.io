@@ -17,23 +17,22 @@ const TARGET_INDICES = {
     'plaquetas': [86, 87, 88]
 };
 
-//
 function getAcoes(laudo) {
     let nums = laudo.replace(/\./g, "").replace(/,/g, ".").match(/[\d.]+/g);
     if (nums.length === 98){
         let acoes = [];
 
-        function resultadoParametro(chave) {
-            const resultadoParam = parseFloat(nums[TARGET_INDICES[chave][0]]);
-            const min = parseFloat(nums[TARGET_INDICES[chave][1]]);
-            const max = parseFloat(nums[TARGET_INDICES[chave][2]]);
+        function getItemInfo(chave) {
+            const resultadoItem = parseFloat(nums[TARGET_INDICES[chave][0]]);
+            const refMin = parseFloat(nums[TARGET_INDICES[chave][1]]);
+            const refMax = parseFloat(nums[TARGET_INDICES[chave][2]]);
 
             //[alto/normal/baixo, resultado, refMin, refMax]
             return {
-                r: resultadoParam < min ? -1 : resultadoParam > max ? 1 : 0,
-                resultadoParam: resultadoParam,
-                min: min,
-                max: max
+                resultadoInterp: resultadoItem < refMin ? -1 : resultadoItem > refMax ? 1 : 0,
+                resultadoItem: resultadoItem,
+                min: refMin,
+                max: refMax
             }
         }
 
@@ -49,43 +48,43 @@ function getAcoes(laudo) {
          */
 
         //LEUCOGRAMA
-        if (resultadoParametro('leucocitos').r === -1) {
+        if (getItemInfo('leucocitos').resultadoInterp === -1) {
             acoes.push("leucopenia");
-        } else if (resultadoParametro('leucocitos').r === 1) {
+        } else if (getItemInfo('leucocitos').resultadoInterp === 1) {
             acoes.push("leucocitose");
         }
 
-        if (resultadoParametro('neutrofilos').r === -1) {
+        if (getItemInfo('neutrofilos').resultadoInterp === -1) {
             acoes.push("neutropenia");
-        } else if (resultadoParametro('neutrofilos').r === 1) {
+        } else if (getItemInfo('neutrofilos').resultadoInterp === 1) {
             acoes.push("neutrofilia");
         }
 
-        if (resultadoParametro('eosinofilos').r === 1) {
+        if (getItemInfo('eosinofilos').resultadoInterp === 1) {
             acoes.push("eosinofilia");
         }
 
-        if (resultadoParametro('basofilos').r === 1) {
+        if (getItemInfo('basofilos').resultadoInterp === 1) {
             acoes.push("basofilia");
         }
 
-        if (resultadoParametro('linfocitos').r === -1) {
+        if (getItemInfo('linfocitos').resultadoInterp === -1) {
             acoes.push("linfocitopenia");
-        } else if (resultadoParametro('linfocitos').r === 1) {
+        } else if (getItemInfo('linfocitos').resultadoInterp === 1) {
             acoes.push("linfocitose");
         }
 
-        let aux = resultadoParametro('plaquetas');
-        if (aux.r === -1) {
-            if (aux.resultadoParam < 100000) {
+        let aux = getItemInfo('plaquetas');
+        if (aux.resultadoInterp === -1) {
+            if (aux.resultadoItem < 100000) {
                 acoes = ["NÃO LIBERA, PLAQUETAS MUITO BAIXAS!"];
-            } else if (aux.resultadoParam > (aux.min - 2000)) {
+            } else if (aux.resultadoItem > (aux.min - 2000)) {
                 acoes.push("altere o valor das plaquetas para 150000");
             } else {
                 acoes.push("trombocitopenia");
             }
-        } else if (aux.r === 1) {
-            if (aux.resultadoParam > 700000) {
+        } else if (aux.resultadoInterp === 1) {
+            if (aux.resultadoItem > 700000) {
                 acoes = ["NÃO LIBERA, PLAQUETAS MUITO ALTAS!"];
             } else {
                 acoes.push("trombocitose");
