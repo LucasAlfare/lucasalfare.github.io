@@ -35,10 +35,10 @@ function handleButtonEnviar(e) {
     e.preventDefault();
     const laud = laudo.value;
     let r = "";
-    let l = getAcoes(laud);
-    for (let i = 0; i < l.length; i++) {
-        if (l[i] !== "") { //
-            r += `- ${l[i]};<br>`;
+    let acoesLaudo = getAcoes(laud);
+    for (let i = 0; i < acoesLaudo.length; i++) {
+        if (acoesLaudo[i] !== "") { //
+            r += `- ${acoesLaudo[i]};<br>`;
         }
     }
 
@@ -61,7 +61,7 @@ function handleOutputFoco(e) {
         app.querySelector('h1').classList.remove('focado');
 
     }
-}1
+}
 
 function handleButtonColar(e) {
     e.preventDefault();
