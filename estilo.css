@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+}
+
+.app {
+    max-width: 40rem;
+    height: 100%;
+    border: solid 8px #000000;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 0.001rem;
+    background: rgba(94, 94, 94, 0.09);
+}
+
+form {
+    justify-content: center;
+    display: flex;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons button {
+    height: 50%;
+    border-radius: 3px;
+    text-transform: lowercase;
+    padding: 2px 8px;
+    border: 1px solid #CCC;
+    font-family: Verdana, sans-serif;
+    font-size: 9px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    white-space: nowrap;
+    text-decoration: none;
+    background:linear-gradient(to bottom,#cecece 0% , #FFF);
+}
+
+.buttons button:hover {
+    background: linear-gradient(to top,#cecece 0% , #A73193);
+}
+
+/*Isso talvez seja um comentário*/
+#laudo {
+    resize: none;
+    color: #333;
+    padding: 2px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#output {
+    margin: 1rem;
+    padding: 0.5rem;
+    background: #FFF;
+    border: solid 3px #000000;
+    min-height: 5rem;
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+.app.focado {
+    background: #A73193;
+}
+
+.app h1.focado {
+    color: #FFFFFF
+}
