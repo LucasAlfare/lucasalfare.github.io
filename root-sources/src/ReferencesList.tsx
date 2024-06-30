@@ -15,6 +15,7 @@ const ReferenceInfoItem: React.FC<{ item: ReferenceInfoItemDTO }> = ({ item }) =
 
   return (
     <Card
+      sx={{ height: 400, maxWidth: 200 }}
       variant="elevation">
       <Box
         display="flex"
@@ -30,7 +31,7 @@ const ReferenceInfoItem: React.FC<{ item: ReferenceInfoItemDTO }> = ({ item }) =
         <Typography gutterBottom variant="h5" component="div">
           {item.title}
         </Typography>
-        <Typography variant="body2" color="text.secondary">
+        <Typography variant="caption" color="text.secondary">
           {item.description}
         </Typography>
         <Box
@@ -51,10 +52,11 @@ const ReferencesList: React.FC<{ items: [ReferenceInfoItemDTO] }> = ({ items }) 
     <List
       component={Stack}
       direction='row'
+      sx={{ width: '100%', display: 'inline-block'}}
     >
       {items.map(i => {
         return (
-          <ListItem sx={{ maxWidth: 'fit-content' }} key={i.referenceId}>
+          <ListItem sx={{ maxWidth: 'fit-content', float: 'left', width: '50%' }} key={i.referenceId}>
             <ReferenceInfoItem item={i} />
           </ListItem>
         )
