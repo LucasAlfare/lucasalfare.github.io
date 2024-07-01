@@ -28,7 +28,7 @@ function App() {
       <Stack>
         <Stack alignContent='center' direction='row'>
           <TextField
-            sx={{ maxWidth: 200 }}
+            className="max-w-96"
             label="Search term"
             type="search"
             variant="filled"

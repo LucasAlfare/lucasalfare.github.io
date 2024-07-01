@@ -1,5 +1,3 @@
-import { Box, Button, Card, CardActions, CardContent, CardMedia, List, ListItem, Stack, Typography } from "@mui/material";
-
 interface ReferenceInfoItemDTO {
   referenceId: number;
   title: string;
@@ -14,54 +12,27 @@ const ReferenceInfoItem: React.FC<{ item: ReferenceInfoItemDTO }> = ({ item }) =
   );
 
   return (
-    <Card
-      sx={{ height: 400, maxWidth: 200 }}
-      variant="elevation">
-      <Box
-        display="flex"
-        justifyContent="center"
-        alignItems="center">
-        <CardMedia
-          component='img'
-          src={`data:image/jpeg;base64,${base64String}`}
-          title={item.title}
-        />
-      </Box>
-      <CardContent>
-        <Typography gutterBottom variant="h5" component="div">
-          {item.title}
-        </Typography>
-        <Typography variant="caption" color="text.secondary">
-          {item.description}
-        </Typography>
-        <Box
-          display="flex"
-          justifyContent="center"
-          alignItems="center">
-          <CardActions>
-            <Button disabled={true}>Download</Button>
-          </CardActions>
-        </Box>
-      </CardContent>
-    </Card>
+    <div className="max-w-80 min-h-96 rounded shadow-xl overflow-auto flex flex-col">
+      <img src={`data:image/jpeg;base64,${base64String}`} className="border-double border-4 border-gray-600/2"></img>
+      <div className="pb-2 h-full flex flex-col justify-between">
+        <div className="px-6 py-4">
+          <p className="font-bold text-xl mb-2">{item.title}</p>
+          <p className="text-gray-500 text-base max-w-40">{item.description}</p>
+        </div>
+        <div className="px-6 pt-4 pb-2 w-fit h-fit self-center">
+          {/* <Button>Download</Button> // Material UI button*/}
+          <button type='button' className="p-2 bg-blue-500 rounded shadow-2xl text-gray-200">Download</button>
+        </div>
+      </div>
+    </div>
   );
 }
 
 const ReferencesList: React.FC<{ items: [ReferenceInfoItemDTO] }> = ({ items }) => {
   return (
-    <List
-      component={Stack}
-      direction='row'
-      sx={{ width: '100%', display: 'inline-block'}}
-    >
-      {items.map(i => {
-        return (
-          <ListItem sx={{ maxWidth: 'fit-content', float: 'left', width: '50%' }} key={i.referenceId}>
-            <ReferenceInfoItem item={i} />
-          </ListItem>
-        )
-      })}
-    </List>
+    <div className="p-4 grid grid-cols-2 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 gap-x-4 gap-y-8">
+      {items.map(i => <ReferenceInfoItem key={i.referenceId} item={i}></ReferenceInfoItem>)}
+    </div>
   );
 }
 
