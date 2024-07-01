@@ -21,7 +21,7 @@ const ReferenceInfoItem: React.FC<{ item: ReferenceInfoItemDTO }> = ({ item }) =
         </div>
         <div className="px-6 pt-4 pb-2 w-fit h-fit self-center">
           {/* <Button>Download</Button> // Material UI button*/}
-          <button type='button' className="p-2 bg-blue-500 rounded shadow-2xl text-gray-200">Download</button>
+          <button type='button' className="p-2 rounded shadow-2xl text-gray-200 bg-blue-500 active:bg-blue-700 hover:bg-blue-600">Download</button>
         </div>
       </div>
     </div>
