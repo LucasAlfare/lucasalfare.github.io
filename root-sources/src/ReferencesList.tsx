@@ -12,7 +12,7 @@ const ReferenceInfoItem: React.FC<{ item: ReferenceInfoItemDTO }> = ({ item }) =
   );
 
   return (
-    <div className="max-w-80 min-h-96 rounded shadow-xl overflow-auto flex flex-col">
+    <div className="hover:bg-slate-50 max-w-80 min-h-96 rounded shadow-xl overflow-auto flex flex-col">
       <img src={`data:image/jpeg;base64,${base64String}`} className="border-double border-4 border-gray-600/2"></img>
       <div className="pb-2 h-full flex flex-col justify-between">
         <div className="px-6 py-4">
