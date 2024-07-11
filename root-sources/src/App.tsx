@@ -9,7 +9,7 @@ function App() {
 
   // TODO: refactor requesting if/when code grows
   useEffect(() => {
-    fetch("https://fl-refs.onrender.com")
+    fetch("http://localhost:80/images")
       .then(response => {
         return response.json();
       })
