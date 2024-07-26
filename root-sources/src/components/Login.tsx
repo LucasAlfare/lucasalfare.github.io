@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Cookies from 'js-cookie';
+import ServerUrl from '../ServerUrl';
 
 
 const Login: React.FC = () => {
@@ -12,7 +13,7 @@ const Login: React.FC = () => {
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const response = await axios.post('https://fl-refs.onrender.com/login', {
+      const response = await axios.post(`${ServerUrl.PROD_ROOT_URL}/login`, {
         email: email,
         plainPassword: password
       });

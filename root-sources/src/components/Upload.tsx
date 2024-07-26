@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Cookies from 'js-cookie';
+import ServerUrl from '../ServerUrl';
 
 const Upload: React.FC = () => {
   const [title, setTitle] = useState<string>('');
@@ -25,7 +26,7 @@ const Upload: React.FC = () => {
       reader.onload = async () => {
         const arrayBuffer = reader.result as ArrayBuffer;
         const byteArray = Array.from(new Int8Array(arrayBuffer));
-        
+
         const payload = {
           title,
           description,
@@ -36,7 +37,7 @@ const Upload: React.FC = () => {
 
         const storedToken = Cookies.get('token');
 
-        await axios.post('https://fl-refs.onrender.com/uploads', payload, {
+        await axios.post(`${ServerUrl.PROD_ROOT_URL}/uploads`, payload, {
           headers: {
             'Content-Type': 'application/json',
             'Authorization': `Bearer ${storedToken}`

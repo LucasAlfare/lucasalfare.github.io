@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import ServerUrl from '../ServerUrl';
 
 interface Image {
   id: number;
@@ -23,7 +24,7 @@ const ImageGallery: React.FC = () => {
 
   const fetchImages = async () => {
     try {
-      const response = await axios.get('https://fl-refs.onrender.com/images', {
+      const response = await axios.get(`${ServerUrl.PROD_ROOT_URL}/images`, {
         params: {
           page: page - 1, // Backend usually expects zero-indexed page numbers
           num_items: 10, // Number of items per page, adjust as necessary

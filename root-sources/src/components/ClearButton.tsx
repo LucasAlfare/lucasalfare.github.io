@@ -1,11 +1,12 @@
 import React from 'react';
 import axios from 'axios';
 import Cookies from 'js-cookie';
+import ServerUrl from '../ServerUrl';
 
 const ClearButton: React.FC = () => {
   const handleClear = async () => {
     try {
-      const response = await axios.delete("https://fl-refs.onrender.com/clear", {
+      const response = await axios.delete(`${ServerUrl.PROD_ROOT_URL}/clear`, {
         headers: {
           'Authorization': `Bearer ${Cookies.get('token')}`
         }
