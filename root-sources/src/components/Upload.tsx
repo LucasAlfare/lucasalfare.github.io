@@ -37,7 +37,7 @@ const Upload: React.FC = () => {
 
         const storedToken = Cookies.get('token');
 
-        await axios.post(`${ServerUrl.PROD_ROOT_URL}/uploads`, payload, {
+        await axios.post(`${ServerUrl.ROOT_URL}/uploads`, payload, {
           headers: {
             'Content-Type': 'application/json',
             'Authorization': `Bearer ${storedToken}`

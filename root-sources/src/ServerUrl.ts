@@ -1,4 +1,6 @@
+const PROD_ROOT_URL = "https://fl-refs.onrender.com"
+// const LOCAL_ROOT_URL = "http://localhost:80"
+
 export default {
-  PROD_ROOT_URL: "https://fl-refs.onrender.com",
-  LOCAL_ROOT_URL: "http://localhost:80"
+  ROOT_URL: PROD_ROOT_URL
 }

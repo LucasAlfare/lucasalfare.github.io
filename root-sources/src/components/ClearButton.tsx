@@ -6,7 +6,7 @@ import ServerUrl from '../ServerUrl';
 const ClearButton: React.FC = () => {
   const handleClear = async () => {
     try {
-      const response = await axios.delete(`${ServerUrl.PROD_ROOT_URL}/clear`, {
+      const response = await axios.delete(`${ServerUrl.ROOT_URL}/clear`, {
         headers: {
           'Authorization': `Bearer ${Cookies.get('token')}`
         }
