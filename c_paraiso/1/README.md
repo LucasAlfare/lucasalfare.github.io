@@ -22,4 +22,4 @@ Ela suspirou suavemente, como uma mãe que acalma um filho perturbado. Seus olho
 
 Suas palavras ressoaram em mim com uma verdade inquestionável. Olhei para o céu, o horizonte agora expandido, e percebi que não havia mais volta. Estávamos sendo guiados por algo muito maior do que nós mesmos, algo que nos puxava com uma força invisível, mas indomável, em direção à luz eterna.
 
-[próximo](/2/)
+[próximo](/c_paraiso/2/)
