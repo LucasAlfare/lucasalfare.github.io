@@ -1,10 +1,16 @@
-# A Divina Comédia
-## Adaptações em Prosa:
-- [Inferno, canto 1](/a_inferno/1/README.md) (livro em progresso);
-- [Purgatório, canto 1](/b_purgatorio/1/README.md) (livro em progresso);
-- [Paraíso, canto 1](/c_paraiso/1/README.md) (adaptação finalizada).
+# Olá!
 
-## Narrações dos livros:
-- [Inferno](https://www.youtube.com/playlist?list=PLhLOnH9KU7x-miI6I3OXZftMeoq_IOFF9) (playlist);
-- [Purgatório](https://www.youtube.com/playlist?list=PLhLOnH9KU7x-CfaEWVYRcSj0YAhmuyTtS) (playlist);
-- [Paraíso](https://www.youtube.com/playlist?list=PLhLOnH9KU7x9TSVvE47M5eQNjbxYqscSy) (playlist).
+Este é o repositório onde estou centralizando uma boa quantidade de conteúdos, basicamente pensando em algo como um "index". Dessa forma, este repositório vai servir como apresentação geral e link para diversos projetos que eu tenho feito!
+
+# Repositórios
+
+## Repositórios "FL"
+
+Eu tenho vários repositórios que decidi colocar o prefixo "FL" neles, que é só uma forma de eu marcar aqueles projetos os quais eu mesmo tenho feito do zero com minhas próprias implementações.
+
+## Outros projetos
+<details>
+    <summary>Divina Comédia</summary>
+
+Eu tenho mantido algumas traduções em formato de prosa de textos da obra literária, inclusive muitos desses textos podem ser acessados diretamente através deste presente repositório ([aqui](/divina_comedia/)).
+</details>
