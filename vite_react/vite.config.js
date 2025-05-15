@@ -40,7 +40,7 @@ export default defineConfig({
     {
       name: 'move-dist-to-parent',
       apply: 'build',
-      closeBundle: async () => {
+      async buildEnd() {
         const distPath = resolve(__dirname, 'dist')
         const targetPath = resolve(__dirname, '..')
 
