@@ -5,6 +5,7 @@ try {
     execSync('npm run build', { stdio: 'inherit' })
 
     console.log('✅ Build finalizado. Enviando para o Git...')
+    
     execSync('git add .', { stdio: 'inherit' })
     execSync('git commit -m "simple deploy command"', { stdio: 'inherit' })
     execSync('git push', { stdio: 'inherit' })
