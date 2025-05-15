@@ -5,7 +5,7 @@ try {
     execSync('npm run build', { stdio: 'inherit' })
 
     console.log('executing >>> git add .')
-    execSync('git add .', { stdio: 'inherit' })
+    execSync('git add .')
 
     console.log('executing >>> git commit -m "simple deploy command"')
     execSync('git commit -m "simple deploy command"', { stdio: 'inherit' })
