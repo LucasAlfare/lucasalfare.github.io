@@ -44,13 +44,18 @@ export default defineConfig({
         const distPath = resolve(__dirname, 'dist')
         const targetPath = resolve(__dirname, '..')
 
-        if (await fs.pathExists(distPath)) {
-          console.log('[move-dist-to-parent] Moving build output to parent directory...')
-          await fs.copy(distPath, targetPath, { overwrite: true })
-          await fs.remove(distPath)
-          console.log('[move-dist-to-parent] Done.')
-        } else {
-          console.warn('[move-dist-to-parent] dist folder not found.')
+        try {
+          if (await fs.pathExists(distPath)) {
+            console.log('[move-dist-to-parent] Moving build output to parent directory...')
+            await fs.copy(distPath, targetPath, { overwrite: true })
+            await fs.remove(distPath)
+            console.log('[move-dist-to-parent] Done.')
+          } else {
+            console.warn('[move-dist-to-parent] dist folder not found.')
+          }
+        } catch (e) {
+          console.error('[move-dist-to-parent] Error moving files:', e)
+          throw e // força o Vite a saber que falhou
         }
       }
     }
