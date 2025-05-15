@@ -1,10 +1,14 @@
+import { Routes, Route } from 'react-router-dom'
+import Home from './pages/Home'
+import FLDesk from './pages/fldesk/FLDesk'
+
 function App() {
 
   return (
-    <div>
-      <h1>Hello!</h1>
-      <p>Hehehe ^^</p>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/fldesk/*" element={<FLDesk />} />
+    </Routes>
   )
 }
 
