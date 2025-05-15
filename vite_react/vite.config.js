@@ -14,7 +14,7 @@ export default defineConfig({
   plugins: [
     react(),
 
-    {
+    { // clear old builds of the parent folder
       name: 'clean-root-assets-and-index',
       apply: 'build',
       buildStart() {
@@ -37,7 +37,7 @@ export default defineConfig({
         }
       },
     },
-    {
+      { // moves the 'dist' contents to parent, so is good for github pages!
       name: 'move-dist-to-parent',
       apply: 'build',
       closeBundle: async () => {
@@ -55,7 +55,7 @@ export default defineConfig({
           }
         } catch (e) {
           console.error('[move-dist-to-parent] Error moving files:', e)
-          throw e // força o Vite a saber que falhou
+          throw e
         }
       }
     }

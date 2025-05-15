@@ -3,35 +3,31 @@ import { execSync } from 'child_process'
 import { chdir } from 'process'
 import { resolve } from 'path'
 
-async function simpleDeploy() {
-  try {
-    console.log('🔧 Iniciando build...')
-    await build()
+// I set this as a NPM script, in [package.json]. So I can just call "npm run simpleDeploy"
+async function performSimpleDeploy() {
+    try {
+        console.log('🔧 Initializing simple deploy...')
+        await build()
 
-    // Muda para a raiz do projeto (um nível acima da pasta vite/scripts)
-    const repoRoot = resolve(process.cwd(), '..')
-    chdir(repoRoot)
-    console.log(`📂 Diretório atual: ${process.cwd()}`)
+        // first I have to change the directory to make git commands, wtf?
+        const repoRoot = resolve(process.cwd(), '..')
+        chdir(repoRoot)
+        console.log(`📂 Current folder: ${process.cwd()}`)
 
-    // Apenas para debug: veja se o git reconhece algo
-    console.log('🧪 git status:')
-    console.log(execSync('git status', { encoding: 'utf8' }))
+        console.log('executing >>> git add .')
+        execSync('git add .', { stdio: 'inherit' })
 
-    // Agora os comandos Git funcionarão corretamente
-    console.log('executing >>> git add .')
-    execSync('git add .', { stdio: 'inherit' })
+        console.log('executing >>> git commit -m "simple deploy command"')
+        execSync('git commit -m "simple deploy command"', { stdio: 'inherit' })
 
-    console.log('executing >>> git commit -m "simple deploy command"')
-    execSync('git commit -m "simple deploy command"', { stdio: 'inherit' })
+        console.log('executing >>> git push')
+        execSync('git push', { stdio: 'inherit' })
 
-    console.log('executing >>> git push')
-    execSync('git push', { stdio: 'inherit' })
-
-    console.log('🚀 Deploy simples concluído com sucesso.')
-  } catch (e) {
-    console.error('❌ Erro no processo de deploy:', e.message)
-    process.exit(1)
-  }
+        console.log('🚀 Simple deploy finished.')
+    } catch (e) {
+        console.error('❌ Error on deploy:', e.message)
+        process.exit(1)
+    }
 }
 
-simpleDeploy()
+performSimpleDeploy() // just call the function!
