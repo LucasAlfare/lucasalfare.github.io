@@ -1,7 +1,6 @@
 +++
 date = '2025-06-02T18:13:37-03:00'
 title = 'Canto2'
-summary = ''
 weight = 0
 
 type = 'docs'
