@@ -14,20 +14,48 @@ _Na Lua estão as almas daqueles que não cumpriram plenamente seus votos religi
 
 ---
 
-O calor suave do sol, que antes aquecia meu peito com a chama do amor, agora me revelava uma verdade encantadora, iluminando meu caminho, testando e retestando minha percepção enquanto a doce face dessa revelação parecia cada vez mais próxima. Em meio à clareza dessa luz, senti a necessidade de levantar minha cabeça, não apenas para admitir meus erros, mas para expressar, com maior convicção, o entendimento que começava a tomar forma dentro de mim. No entanto, no exato momento em que me preparava para pronunciar minhas palavras, uma visão arrebatadora se ergueu diante de mim. Ela me prendeu de tal maneira que esqueci completamente o que havia começado a confessar.
+O calor suave do sol, que antes aquecia meu peito com a chama do amor, agora me revelava uma verdade encantadora. Iluminava meu caminho, testava e retestava minha percepção, enquanto a doce face dessa revelação parecia cada vez mais próxima. Em meio à clareza dessa luz, senti a necessidade de levantar a cabeça — não apenas para admitir meus erros, mas para expressar, com mais convicção, o entendimento que começava a tomar forma dentro de mim.
 
-Diante de mim, como se através de vidros transparentes ou águas claras e tranquilas, de profundidade moderada, vislumbres suaves de rostos começaram a emergir. As faces eram tão delicadas e etéreas que pareciam apenas reflexos fracos, como uma pérola brilhando em uma fronte pálida. E então, algo dentro de mim tropeçou. Confundi aqueles rostos com meros reflexos, acreditando que eram ilusões, talvez criadas por alguma estranha força mística. Inclinei-me para observar melhor, torcendo meus olhos à procura da origem dessas imagens, mas nada vi. Confuso, voltei meu olhar para a figura sempre iluminada de minha guia, Beatriz. Seus olhos santos ardiam com um sorriso que parecia irradiar uma compreensão profunda e serena.
+No exato momento em que me preparava para pronunciar minhas palavras, uma visão arrebatadora surgiu diante de mim. Ela me prendeu de tal forma que esqueci completamente o que havia começado a confessar.
 
-Ela, sempre atenta, percebeu meu dilema e, com uma doçura que apenas ela poderia ter, sorriu e me disse: “Não te assustes com o meu sorriso, é que tua mente ainda jovem e imatura vacila, sem se firmar plenamente na verdade, e como um barco sem leme, ela se perde no vazio. O que vês diante de ti são almas verdadeiras, não meras ilusões. Elas estão aqui por falharem em cumprir um voto, mas ainda são sustâncias reais. Fala com elas, ouve-as e acredita nelas, pois a luz que as preenche, a verdadeira luz que as satisfaz, não permite que desviem de seus caminhos.”
+Diante de mim, como se por vidros transparentes ou águas claras e calmas, de profundidade moderada, começaram a surgir vislumbres suaves de rostos. Eram tão delicados e etéreos que pareciam apenas reflexos fracos, como uma pérola brilhando numa fronte pálida. E então, algo dentro de mim vacilou. Achei que eram ilusões, talvez criadas por alguma força estranha. Inclinei-me, forçando os olhos para encontrar a origem daquelas imagens, mas nada vi. Confuso, voltei meu olhar para a figura sempre iluminada de minha guia, Beatriz. Seus olhos santos ardiam com um sorriso que irradiava uma compreensão serena e profunda.
 
-Sentindo uma sensação de alívio ao saber que não estava diante de meras sombras, dirigi-me à alma que me parecia mais disposta a falar, com uma mistura de ansiedade e respeito, como alguém que tem tantas perguntas a fazer que mal consegue organizar as palavras: “Ó espírito bem-aventurado, que sente a doçura da vida eterna, uma doçura que só pode ser compreendida ao experimentá-la, eu ficaria honrado se me dissesse teu nome e a sorte que aqui te trouxe.” A alma, sorrindo com olhos radiantes, respondeu prontamente: “Nosso amor e nossa caridade não fecham as portas a um pedido justo, assim como a bondade do Criador não rejeita aqueles que O seguem de coração sincero. Fui, no mundo, uma virgem consagrada. Se recordares bem, não será difícil reconhecer-me por minha beleza restaurada. Sou Picarda, e como vês, estou entre os bem-aventurados nesta esfera mais lenta, porém, ainda assim, feliz.”
+Ela, atenta, percebeu meu dilema. Sorriu com doçura e disse:
 
-Enquanto Picarda falava, o brilho em seus olhos era o reflexo da paz profunda que somente a graça divina pode proporcionar. Ela continuou: “Nossos desejos aqui são inflamados pelo puro prazer do Espírito Santo, e por isso nos regozijamos, pois nos conformamos à ordem estabelecida por Ele. A nossa sorte aqui é essa, não porque desprezamos nossos votos, mas porque eles não foram completamente cumpridos.”
+_– Não te assustes com o meu sorriso. É que tua mente ainda jovem vacila, sem se firmar plenamente na verdade. Como um barco sem leme, ela se perde no vazio. O que vês são almas verdadeiras, não ilusões. Estão aqui por não cumprirem um voto, mas ainda são reais. Fala com elas, ouve-as, acredita nelas. A luz que as preenche, a verdadeira luz que as satisfaz, não permite que se desviem de seus caminhos._
 
-Ainda maravilhado com a presença daquela alma radiante, perguntei: “Vocês que são tão abençoados aqui, desejam um lugar mais elevado, para que possam ver mais e se aproximar ainda mais da glória divina?” Um sorriso suave brincou no rosto de Picarda, assim como nos rostos das outras almas que a acompanhavam, e sua resposta veio cheia de uma alegria ardente: “Irmão, nossa vontade está completamente em paz, guiada pela virtude da caridade, que nos faz desejar somente o que temos e nada mais. Se desejássemos estar em esferas mais altas, nossos desejos estariam em desacordo com a vontade Daquele que nos colocou aqui. E como vês, tal discordância seria impossível, pois a caridade é essencial aqui, e sua natureza é se alinhar com a vontade divina. Nossa verdadeira bem-aventurança está em nos mantermos dentro dessa vontade, tornando-a uma só com a nossa. Assim, ao passarmos de um nível para outro neste reino, somos felizes em todo o reino, assim como o Rei que nos move com Seu desejo.”
+Aliviado por saber que não estava diante de meras sombras, aproximei-me da alma que parecia mais disposta a falar. Com ansiedade e respeito, como alguém com perguntas demais para organizar:
 
-A clareza de suas palavras iluminou minha mente como nunca antes. Compreendi então que, em qualquer lugar do céu, há paraíso, mesmo que a graça do Sumo Bem não seja derramada da mesma maneira em todos os pontos. No entanto, como alguém que sacia sua fome com um tipo de alimento, mas ainda anseia por outro, continuei a buscar mais conhecimento de Picarda. Com gestos e palavras, perguntei sobre o tecido de sua vida mortal, curioso para entender o motivo pelo qual seu voto não fora completamente cumprido.
+_– Ó espírito bem-aventurado, que sente a doçura da vida eterna – uma doçura que só pode ser compreendida ao experimentá-la – eu ficaria honrado se dissesse teu nome e a sorte que aqui te trouxe._
 
-Ela me explicou com serenidade: “Há uma mulher mais elevada que eu, cuja perfeição e mérito lhe garantem um lugar acima. No mundo, ela é um exemplo para aqueles que vestem e cobrem suas cabeças com véus sagrados, dedicando suas vidas a um único esposo – Cristo – que aceita cada voto feito em nome da caridade. Seguindo-a, ainda jovem, entrei para a vida consagrada, prometendo seguir o caminho que ela traçara. Mas homens, mais inclinados ao mal do que ao bem, me arrancaram do doce claustro. Somente Deus sabe que destino minha vida seguiu após isso. A alma que vês à minha direita, brilhando com toda a luz desta esfera, compartilha da mesma sorte. Ela também foi forçada a abandonar seu véu, mas em seu coração, jamais rompeu seu voto.” E apontando para a outra alma, Picarda revelou: “Esta é a luz de Constança, cuja descendência deu origem à última força imperial.”
+A alma sorriu. Seus olhos irradiavam paz e respondeu:
 
-Ao finalizar suas palavras, Picarda começou a cantar “Ave Maria”, e enquanto sua voz se desvanecia, sua forma desaparecia como algo pesado que afunda nas águas profundas. Meu olhar a seguiu por todo o tempo que pude, até que ela finalmente se foi. Então, voltei-me para Beatriz, buscando nela a próxima resposta. No entanto, o brilho de sua presença era tão intenso que, de imediato, meus olhos não puderam suportá-lo.
+_– Nosso amor e nossa caridade não fecham as portas a um pedido justo, assim como a bondade do Criador não rejeita aqueles que O seguem de coração sincero. Fui, no mundo, uma virgem consagrada. Se você observar bem, não vai ser difícil me reconhecer por minha beleza restaurada. Sou Picarda. Como pode ver, estou entre os bem-aventurados nesta esfera mais lenta, mas, ainda assim, feliz._
+
+Enquanto falava, o brilho em seus olhos refletia uma paz profunda, que só a graça divina proporciona. E continuou:
+
+_– Nossos desejos aqui são inflamados pelo puro prazer do Espírito Santo. Por isso nos regozijamos, pois nos conformamos à ordem estabelecida por Ele. A nossa sorte aqui não é fruto de desprezo aos votos, mas do fato de não termos conseguido cumpri-los por completo._
+
+Ainda maravilhado, perguntei:
+
+_– Vocês, abençoados, desejam um lugar mais alto? Querem ver mais, chegar mais perto da glória divina?_
+
+Um sorriso suave apareceu em seu rosto e nos rostos das outras almas ao redor. Ela respondeu com alegria ardente:
+
+_– Irmão, nossa vontade está em paz, guiada pela caridade, que nos faz desejar apenas o que temos. Se desejássemos estar em esferas mais altas, estaríamos em desacordo com a vontade de Quem nos colocou aqui. E como vês, isso seria impossível. A caridade é essencial aqui, e sua natureza é alinhar-se com a vontade divina. Nossa verdadeira bem-aventurança está em permanecer dentro dessa vontade, tornando-a uma com a nossa. Assim, em qualquer parte deste reino, somos felizes, assim como o Rei que nos move com Seu desejo._
+
+As palavras de Picarda iluminaram minha mente. Compreendi que, em qualquer lugar do céu, há paraíso, mesmo que a graça do Sumo Bem não se derrame da mesma forma em todos os pontos. Mas, como quem mata a fome com um alimento e ainda anseia por outro, continuei buscando mais.
+
+Com gestos e palavras, perguntei sobre a vida mortal dela, curioso para entender por que seu voto não fora plenamente cumprido.
+
+Ela explicou com serenidade:
+
+_– Há uma mulher mais elevada que eu, cuja perfeição e mérito lhe garantem um lugar acima. No mundo, ela é exemplo para quem veste e cobre a cabeça com véu sagrado, dedicando-se a um único esposo: Cristo, que acolhe cada voto feito por caridade. Seguindo-a, entrei jovem para a vida consagrada. Mas homens, mais inclinados ao mal do que ao bem, arrancaram-me do doce claustro. Só Deus sabe o destino da minha vida após isso. A alma à minha direita, brilhando com a luz desta esfera, teve o mesmo fim. Também foi forçada a abandonar o véu, mas no coração, jamais rompeu o voto._
+
+E apontando para ela, completou:
+
+_– Esta é a luz de Constança, cuja linhagem deu origem à última força imperial._
+
+Ao terminar, Picarda começou a cantar *Ave Maria*. Sua voz foi se apagando, e sua forma desapareceu, como algo pesado que afunda em águas profundas. Meu olhar a seguiu o quanto pude, até que se foi por completo.
+
+Então me voltei para Beatriz, buscando nela a próxima resposta. Mas o brilho da sua presença era tão intenso que, de imediato, meus olhos não conseguiram suportá-lo.
