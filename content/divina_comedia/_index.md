@@ -1,8 +1,6 @@
 ---
 title: "A Divina Comedia em prosa"
 date: 2025-06-01T22:57:55-03:00
-draft: true
-
 type: 'docs'
 next: 'divina_comedia/inferno/canto1'
 ---
