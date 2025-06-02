@@ -14,20 +14,65 @@ _A alma do imperador Justiniano fala ao poeta, narrando-lhe a história do Impé
 
 ---
 
-Eu estava completamente absorto no cenário celestial que se desdobrava à minha frente. A cada instante, mais surpresas surgiam na vastidão do Paraíso, como se o próprio cosmos estivesse se revelando em formas e cores além da compreensão humana. E então, do nada, ele apareceu — uma figura imponente, emanando autoridade e poder, como se toda a história do império romano estivesse resumida em sua presença.
+Eu estava completamente absorto no cenário celestial que se desdobrava diante de mim. A cada instante, novas surpresas surgiam na vastidão do Paraíso, como se o próprio cosmos se revelasse em formas e cores além da compreensão humana.
 
-A voz grave e firme dele preencheu o espaço ao nosso redor, rompendo o silêncio profundo. “Eu fui César, e sou Justiniano”, ele disse, o nome ressoando em minha mente como o eco de uma época de glória. Eu podia sentir o peso das palavras, não apenas pela importância histórica, mas pelo significado profundo que ele trazia consigo. Sua missão, como ele começou a explicar, foi clara: reordenar as leis, purificando-as da confusão e do excesso que as sobrecarregavam. Mas o que realmente me prendeu foi o brilho nos olhos dele, um brilho de redenção pessoal. Ele, um dos maiores líderes do mundo, confessou sua própria falha de fé no início — acreditara que Cristo possuía apenas uma natureza, até que foi corrigido por Agapito, o Papa abençoado que o guiou de volta à fé verdadeira.
+Então, do nada, ele apareceu — uma figura imponente, que emanava autoridade e poder, como se toda a história do Império Romano estivesse condensada em sua presença.
 
-Enquanto ele falava, a paisagem ao nosso redor parecia se alterar em resposta às suas palavras. Cada mudança em sua narrativa parecia trazer novos cenários à tona, como se as histórias que ele contava estivessem se manifestando diante de nós. Ele descreveu, com uma precisão quase dolorosa, a saga da águia romana, o símbolo sagrado do império que governou o mundo por séculos. Do extremo da Europa, ele me levou pelas vastas montanhas e vales do continente, onde o poder do império havia sido exercido, e como ele, Justiniano, havia entregue as armas a Belisário, o grande general. Eu podia imaginar as batalhas, o sangue derramado, as conquistas que moldaram o destino da humanidade. Mas o que mais me impressionou foi a maneira como ele, em meio a tudo isso, encontrou paz e aceitou seu papel na história, delegando o poder para focar em sua verdadeira vocação: o direito.
+*A voz grave e firme dele preencheu o espaço ao nosso redor, rompendo o silêncio profundo.*
 
-A narrativa de Justiniano se aprofundou quando ele começou a falar sobre a justiça divina que o movia, como se o próprio céu tivesse conspirado para inspirá-lo a criar uma ordem perfeita, uma justiça que transcendia a mortalidade. Ele me levou a reviver o triunfo do império sobre Brenno, Pirro e tantos outros inimigos que ousaram desafiar Roma. A cada nome que ele mencionava, eu podia sentir as sombras desses grandes líderes e guerreiros pairando ao nosso redor, como se suas almas ainda tivessem algo a dizer, algo a defender.
+*— Eu fui César, e sou Justiniano.*
 
-Mas então, algo mudou em seu tom. De suas vitórias passadas, ele nos transportou para o declínio, quando a águia romana se transformou de símbolo de poder e justiça em algo corrompido. “Olhe para o que aconteceu quando o terceiro César tomou o poder”, ele disse com um misto de tristeza e desapontamento. “O mundo estava sob o domínio de uma justiça viva, mas a vaidade e a corrupção do poder humano distorceram esse ideal.” Eu podia sentir o peso dessa revelação, o arrependimento em sua voz.
+O nome ressoou em minha mente como o eco de uma época de glória. Senti o peso das palavras, não apenas pela importância histórica, mas pelo significado profundo que carregavam. Sua missão, como começou a explicar, era clara: reordenar as leis, purificando-as da confusão e do excesso.
 
-Aí veio uma outra reviravolta: Tito, que com a ajuda divina vingou o povo de Deus. Ele me lembrou que, quando a Igreja estava sob ataque dos bárbaros lombardos, foi Carlos Magno quem, com coragem e fé, salvou o símbolo sagrado. A emoção em sua voz tornou-se palpável, e percebi que esse era um tema central na narrativa dele — a luta pela preservação da justiça divina em um mundo imperfeito.
+Mas o que realmente me prendeu foi o brilho nos olhos dele — um brilho de redenção pessoal. Um dos maiores líderes da história confessava uma falha de fé.
 
-Enquanto ele falava sobre os Gibelinos e Guelfos, era como se eu pudesse ver o caos que esses grupos causaram. A luta por poder, a deturpação de um símbolo sagrado para fins pessoais, tudo isso o perturbava. O desespero em suas palavras se intensificava conforme ele apontava para aqueles que, em vez de seguir o caminho da justiça, lutavam por interesses mesquinhos. Sua voz se elevou quando falou dos erros cometidos sob esses emblemas, e pude sentir a sua frustração com as ações humanas que distorciam o propósito divino.
+*— No início, acreditei que Cristo possuía apenas uma natureza. Foi Agapito, o Papa abençoado, quem me guiou de volta à fé verdadeira.*
 
-Finalmente, ele me apresentou uma história intrigante: a de Romeo, um homem simples e de grande mérito, cuja dedicação e sucesso foram recompensados com ingratidão. Essa história, repleta de amargura e injustiça, ressoou em meu coração como um lembrete doloroso de que o bem nem sempre é reconhecido neste mundo. Mas, mesmo assim, Justiniano, com um olhar sereno e sábio, me garantiu que a justiça divina sempre prevaleceria, mesmo que, aos olhos mortais, parecesse que o caos governava.
+Enquanto ele falava, a paisagem ao redor parecia reagir às suas palavras. Cada parte da narrativa trazia novos cenários, como se as histórias ganhassem forma diante de nós. Ele descreveu com precisão a saga da águia romana, o símbolo sagrado do império que governou o mundo por séculos.
 
-Enquanto ele se afastava, deixando sua luz se apagar lentamente diante de mim, senti que não era apenas a história do império romano que ele havia me contado, mas também a história do conflito eterno entre o poder humano e a justiça divina, entre a glória terrena e a redenção espiritual. E, no silêncio que se seguiu, a mensagem dele permaneceu, reverberando em minha mente como um eco constante de uma verdade universal — a justiça, embora muitas vezes obscurecida, sempre encontrará seu caminho, e o poder, por mais forte que seja, nunca será páreo para a vontade de Deus.
+Do extremo da Europa, ele me levou por montanhas e vales do continente, onde o poder de Roma havia se estendido.
+
+*— Entreguei as armas a Belisário, o grande general.*
+
+As batalhas, o sangue, as conquistas — tudo isso se desenrolava diante de mim. Mas o que mais me marcou foi a forma como ele, em meio a tudo, encontrou paz ao aceitar seu papel histórico e dedicar-se ao direito.
+
+A narrativa se aprofundou ainda mais. Ele falou sobre a justiça divina que o impulsionava, como se o próprio céu conspirasse para inspirá-lo a criar uma ordem perfeita — uma justiça que transcendesse a mortalidade.
+
+Revivemos o triunfo de Roma sobre Breno, Pirro e tantos outros inimigos. A cada nome, era como se as sombras daqueles líderes e guerreiros pairassem à nossa volta.
+
+Então, o tom mudou.
+
+*— Olhe para o que aconteceu quando o terceiro César tomou o poder.*
+
+Havia tristeza em sua voz.
+
+*— O mundo vivia sob a justiça viva, mas a vaidade e a corrupção do poder humano distorceram tudo.*
+
+Senti o peso da revelação. O arrependimento era nítido.
+
+A conversa deu outra guinada com a lembrança de Tito.
+
+*— Com ajuda divina, ele vingou o povo de Deus.*
+
+E seguiu:
+
+*— Quando a Igreja esteve sob ataque dos bárbaros lombardos, foi Carlos Magno quem, com coragem e fé, salvou o símbolo sagrado.*
+
+A emoção em sua voz era clara. Esse era o centro da narrativa: a luta para preservar a justiça divina em um mundo imperfeito.
+
+Quando falou sobre os Gibelinos e Guelfos, o caos dessas disputas ficou visível em minha mente. O símbolo sagrado distorcido para fins pessoais. A perturbação dele aumentava.
+
+*— Eles não lutavam por justiça, mas por interesses mesquinhos.*
+
+A voz dele se elevou.
+
+*— Erraram, todos eles. Traíram o propósito divino.*
+
+Por fim, ele compartilhou uma última história: Romeo. Um homem simples, de grande mérito, cuja lealdade foi paga com ingratidão. A injustiça dessa história me atingiu em cheio.
+
+*— Mesmo assim, a justiça divina prevalecerá. Mesmo que, aos olhos humanos, tudo pareça caos.*
+
+Ele se afastou lentamente. Sua luz foi desaparecendo. Não era só a história do Império Romano que ele havia contado. Era a história do conflito eterno entre poder e justiça, entre glória e redenção.
+
+No silêncio que ficou, a mensagem dele permaneceu:
+*A justiça, mesmo obscurecida, sempre encontra seu caminho. E o poder, por mais forte que pareça, nunca supera a vontade de Deus.*
