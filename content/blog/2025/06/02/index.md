@@ -1,8 +1,7 @@
 +++
 date = '2025-06-02T02:00:52-03:00'
 title = 'Meu (primeiro) Site Estático'
-summary = 'Farmacêutico curioso por programação, monta blog com Hugo + Hextra pra publicar adaptações da Divina Comédia. 🤣'
-weight = 0
+summary = 'Eu sou farmacêutico mas curioso por programação, montei um blog com Hugo + Hextra pra publicar adaptações da Divina Comédia e olha no que deu...'
 type = 'blog'
 +++
 
