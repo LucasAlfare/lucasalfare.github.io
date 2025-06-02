@@ -7,5 +7,5 @@ toc: false
 
 {{< cards >}}
   {{< card link="divina_comedia" title="A Divina Comédia em prosa" icon="book-open" >}}
-  {{< card link="about" title="Blog" icon="user" >}}
+  {{< card link="blog" title="Blog" icon="user" >}}
 {{< /cards >}}
