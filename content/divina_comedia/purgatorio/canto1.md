@@ -17,7 +17,7 @@ Virei para o sul e foi então que as vi — quatro estrelas tão brilhantes que 
 
 _— Quem seria digno de viver sob uma luz assim?_ — pensei.
 
-Foi quando um vulto saiu da penumbra — um ancião de barba branca como neve, com cabelos caindo sobre o peito, imponente a ponto de meu primeiro impulso ser me ajoelhar. O rosto dele brilhava com o reflexo das quatro estrelas, dando a ele uma aura quase sobrenatural. Antes que eu dissesse qualquer coisa, ele falou. A voz era grave, como um trovão distante:
+Foi quando um vulto saiu da penumbra — um ancião de barba branca como neve, com cabelos caindo sobre o peito — uma figura realmente imponente. O rosto dele brilhava com o reflexo das quatro estrelas, dando a ele uma aura quase sobrenatural. Antes que eu dissesse qualquer coisa, ele falou. A voz era grave, como um trovão distante:
 
 _— Quem é você, que teve coragem de escapar do rio cego do Inferno? As leis do abismo foram quebradas? Ou será que o céu mudou de ideia e agora deixa condenados entrarem nos meus domínios?_
 
