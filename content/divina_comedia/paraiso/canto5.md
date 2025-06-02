@@ -16,26 +16,58 @@ _Beatriz e Dante voam, então, para a esfera de Mercúrio, onde estão as almas 
 
 ---
 
-Quando Beatriz começou a falar, sua voz ecoava de uma maneira que ultrapassava qualquer emoção terrena. Era como se o calor de seu amor, tão além daquilo que podemos experimentar na Terra, tivesse o poder de penetrar minha alma, vencendo até a força do meu olhar. Eu mal podia conter o impacto de sua presença, e me perguntei, fascinado, de onde vinha aquela força arrebatadora. Mas logo percebi que a resposta estava diante de mim — a perfeição de sua visão, o modo como ela captava a luz eterna, movia seu ser em direção ao bem de uma forma tão natural quanto respirar.
+Quando Beatriz começou a falar, a voz dela tinha uma força que ultrapassava qualquer emoção humana. Era como se o calor do amor dela — algo além de tudo que se pode viver na Terra — tivesse o poder de atravessar minha alma, vencendo até a firmeza do meu olhar. Mal conseguia suportar o impacto da presença dela. Me perguntei, fascinado, de onde vinha tamanha força. Mas logo entendi: estava tudo ali, diante de mim — na perfeição do olhar dela, no modo como captava a luz eterna, e em como isso guiava seu ser naturalmente em direção ao bem.
 
-Enquanto ela falava, parecia que a luz eterna já brilhava dentro de mim, iluminando meu entendimento. Senti um clarão de verdade que apenas acendia mais e mais amor dentro de mim, como uma chama incontrolável. E então, as palavras de Beatriz fluíram com uma clareza cortante: se nosso amor é seduzido por qualquer outra coisa, é apenas um reflexo mal interpretado daquela luz divina. Eu a escutava com toda a atenção, enquanto ela me explicava, com uma paciência quase celestial, que eu desejava saber se, com outro tipo de serviço, poderia ser satisfeito um voto menor, e ainda assim garantir a paz da alma.
+Enquanto ela falava, parecia que essa mesma luz eterna já ardia dentro de mim, iluminando o que eu entendia. Senti um clarão de verdade acender algo em mim — amor puro, incontrolável. E as palavras de Beatriz vieram com uma clareza que cortava fundo:
 
-Beatriz continuou, e sua voz era firme, sem interrupção, como alguém que nunca hesita. Explicou que o maior dom que Deus, em sua infinita generosidade, nos concedeu foi a liberdade de vontade — a capacidade de decidir. Esse foi o presente que mais se conformava à bondade divina, e era, sem dúvida, o que Deus mais apreciava. Somente as criaturas dotadas de intelecto, como os humanos, receberam essa dádiva.
+*— Se nosso amor é seduzido por qualquer outra coisa, é apenas um reflexo mal interpretado daquela luz divina.*
 
-A partir disso, ela me guiou para entender o valor de um voto. Quando fazemos um voto a Deus, estamos firmando um pacto, oferecendo a Ele o tesouro de nossa vontade. Mas e se tentarmos compensar o voto com outra coisa? Beatriz deixou claro que isso não era possível, como se eu tentasse transformar algo que já foi dedicado ao Divino em algo inferior, sem a permissão de Deus. As palavras fluíam dela como um rio, e eu me vi completamente imerso no significado profundo que ela transmitia.
+Eu a escutava com atenção total. Ela explicava, com uma paciência firme, que minha dúvida era se um voto menor poderia ser satisfeito por outro tipo de serviço e ainda assim garantir a paz da alma.
 
-Ela falou sobre a importância de manter o pacto, e como até os antigos hebreus estavam obrigados a oferecer sacrifícios, mesmo quando algum deles era substituído por outro. Explicou que, embora a matéria do sacrifício pudesse ser trocada, o espírito do pacto jamais deveria ser violado sem a devida autorização. A profundidade de sua sabedoria era imensa, e me senti pequeno diante da grandeza do que ela expunha.
+Beatriz seguiu, sem hesitação. A voz dela era firme, constante, como alguém que nunca precisa pensar duas vezes. Explicou que o maior dom que Deus, em sua generosidade infinita, nos deu foi a liberdade de vontade — a capacidade de decidir. Esse era o presente mais alinhado com a bondade divina. E só criaturas com intelecto, como nós, receberam esse dom.
 
-Nesse momento, as palavras de Beatriz se tornaram ainda mais diretas. Ela me aconselhou a não tratar os votos de forma leviana. Se um voto é feito, deve ser cumprido, ou, como no caso de Jefté, seria melhor ter admitido o erro em vez de perpetuar um sacrifício tolo. Ela mencionou o grande líder dos gregos, cuja insensatez levou à dor de Ifigênia, e como isso fez tanto os tolos quanto os sábios chorarem. Havia um peso emocional em sua fala, como se estivesse me mostrando a fragilidade das decisões humanas diante de promessas feitas ao divino.
+A partir daí, ela me levou a entender o que realmente significa um voto. Quando alguém faz um voto a Deus, entrega a Ele o que tem de mais precioso: a própria vontade. E se alguém tenta trocar isso por outra coisa? Beatriz foi direta:
 
-Então, Beatriz voltou sua atenção para a importância da fé. Os cristãos deveriam ser firmes em suas ações, não se deixando levar pelo vento de qualquer nova ideia ou desejo. A base de sua salvação estava nos Testamentos, tanto o Novo quanto o Velho, e no pastor da Igreja que os guiava. Ela reforçou que, se algum desejo corrupto surgisse, deveríamos lembrar nossa humanidade, sem nos transformar em tolos cegos, como ovelhas que se perdem.
+*— Não dá. Não se pode tomar de volta o que já foi oferecido ao Divino, tentando substituir por algo menor, sem a permissão de Deus.*
 
-Quando ela terminou de falar, houve um momento de silêncio, como se o mundo ao redor tivesse parado, e eu senti o peso do que acabara de ouvir. Beatriz se virou, ansiosa, olhando para o céu onde o mundo se mostrava mais vivo e brilhante. Seu silêncio me fez perceber que novas perguntas surgiam em minha mente, perguntas que estavam prestes a explodir, mas que foram temporariamente abafadas pela intensidade do momento.
+As palavras dela fluíam com naturalidade. Eu estava completamente imerso no significado daquilo.
 
-De repente, fomos transportados com uma velocidade impressionante para o segundo reino, como uma flecha disparada, atravessando o espaço antes mesmo que o arco voltasse a repousar. Assim que chegamos, vi Beatriz cercada por uma luz tão brilhante que fez o próprio planeta parecer mais luminoso. Era como se toda a criação sorrisse para ela, e, ao vê-la, eu não pude evitar me sentir mudado, transformado por aquela luz.
+Ela falou da importância de manter o pacto. Citou os antigos hebreus, que eram obrigados a oferecer sacrifícios, mesmo quando um era substituído por outro. Explicou que, embora o conteúdo do sacrifício pudesse mudar, o espírito do pacto jamais podia ser quebrado sem autorização. A profundidade do que ela dizia era enorme. Me senti pequeno diante daquela clareza.
 
-E então, mais de mil luzes brilhantes começaram a se mover em nossa direção. Cada uma delas irradiava uma alegria tão intensa que mal podia ser contida. Quando se aproximaram, ouvi uma voz suave que dizia: "Aqui está quem aumentará nosso amor." Cada luz que se aproximava revelava uma sombra de pura felicidade, irradiando em um brilho claro.
+Nesse ponto, Beatriz foi ainda mais direta:
 
-Fiquei em silêncio, contemplando essas visões extraordinárias, e senti um desejo profundo de conhecer suas histórias, de entender suas condições. Um dos espíritos, cheio de bondade, falou diretamente comigo, oferecendo-me a oportunidade de fazer qualquer pergunta que eu desejasse, e encorajado por Beatriz, que me disse para perguntar sem medo, como se estivesse conversando com um ser divino, eu finalmente falei.
+*— Não trate os votos de forma leviana. Se um voto é feito, ele deve ser cumprido. Melhor teria sido Jefté admitir o erro do que perpetuar um sacrifício tolo.*
 
-Olhei para a luz diante de mim e disse: "Vejo como você brilha em sua própria luz, e como seus olhos resplandecem, mas não sei quem você é, nem por que está nesta esfera, velada aos mortais." E então, a luz se intensificou, brilhando ainda mais forte, e antes que pudesse responder, se ocultou de mim em uma explosão de luz, como se a alegria tivesse se tornado demais para ser contida em palavras.
+Ela também mencionou o líder dos gregos, cuja insensatez levou à dor de Ifigênia:
+
+*— Isso fez tanto os tolos quanto os sábios chorarem.*
+
+A fala dela tinha um peso emocional que expunha a fragilidade das decisões humanas diante das promessas feitas a Deus.
+
+Então, Beatriz voltou o foco para a fé. Disse que os cristãos deveriam ser firmes em suas ações, sem se deixarem levar por desejos ou ideias passageiras.
+
+*— A base da salvação está nos Testamentos — o Novo e o Velho — e no pastor que guia a Igreja. Se surgir algum desejo corrupto, lembrem-se da própria humanidade. Não se tornem tolos cegos, como ovelhas perdidas.*
+
+Quando ela parou de falar, o silêncio foi absoluto, como se o mundo tivesse congelado. Senti o peso de tudo o que ouvira. Beatriz se virou, olhando para o céu com ansiedade, onde o mundo parecia mais vivo e brilhante. O silêncio dela fez novas perguntas surgirem na minha mente — perguntas fortes, que quase explodiam, mas que foram abafadas pela intensidade do momento.
+
+De repente, fomos transportados para o segundo reino, como uma flecha atravessando o espaço antes mesmo do arco repousar. Assim que chegamos, vi Beatriz cercada por uma luz tão intensa que fazia o planeta inteiro parecer mais brilhante. Era como se a criação sorrisse para ela. E ao vê-la, senti que algo em mim havia mudado — aquela luz me transformava.
+
+Mais de mil luzes começaram a se mover em nossa direção. Cada uma irradiava uma alegria impossível de conter. Quando se aproximaram, ouvi uma voz suave:
+
+*— Aqui está quem aumentará nosso amor.*
+
+Cada luz revelava uma sombra pura de felicidade, brilhando com intensidade.
+
+Fiquei em silêncio, tentando absorver tudo aquilo. Um desejo profundo de entender quem eram e quais eram suas histórias tomou conta de mim. Um dos espíritos, com uma bondade evidente, falou direto comigo:
+
+*— Pergunte o que quiser.*
+
+Beatriz me encorajou:
+
+*— Pergunte sem medo, como se falasse com um ser divino.*
+
+Olhei para a luz diante de mim e falei:
+
+*— Vejo como você brilha em sua própria luz, e como seus olhos resplandecem. Mas não sei quem você é, nem por que está nesta esfera, oculta aos mortais.*
+
+A luz brilhou ainda mais. Antes de responder, se ocultou numa explosão intensa — como se a alegria fosse grande demais para caber em palavras.
