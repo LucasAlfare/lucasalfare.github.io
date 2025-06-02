@@ -1,6 +1,5 @@
 # Hugo configuration file
 title: Francisco Lucas
-
 # import hextra as module
 module:
   imports:
@@ -25,9 +24,9 @@ menu:
       weight: 2
       params:
         type: search
-    - name: GitHub
+    - name: Source
       weight: 3
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/LucasAlfare/lucasalfare.github.io"
       params:
         icon: github
 
@@ -38,4 +37,4 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
