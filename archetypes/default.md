@@ -2,7 +2,6 @@
 date = '{{ .Date }}'
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 draft = true
-weight = 0
 
 type = 'docs'
 
