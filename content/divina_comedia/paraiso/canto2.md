@@ -1,7 +1,7 @@
 +++
 date = '2025-06-01T23:31:46-03:00'
 title = 'Canto II'
-draft = true
+
 type = 'docs'
 prev = 'divina_comedia/paraiso/canto1'
 next = 'divina_comedia/paraiso/canto3'

@@ -1,7 +1,7 @@
 +++
 date = '2025-06-02T00:30:45-03:00'
 title = 'Canto XX'
-draft = true
+
 summary = ' '
 weight = 20
 
