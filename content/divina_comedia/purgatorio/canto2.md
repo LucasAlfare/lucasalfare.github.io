@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T18:13:37-03:00'
-title = 'Canto2'
+title = 'Canto II'
 
 type = 'docs'
 
