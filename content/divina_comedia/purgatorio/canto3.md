@@ -1,7 +1,6 @@
 +++
 date = '2025-06-02T21:45:38-03:00'
 title = 'Canto III'
-draft = true
 
 type = 'docs'
 
