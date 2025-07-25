@@ -29,5 +29,4 @@ A maior parte da população vive em paz relativa, especialmente se compararmos 
 
 O exemplo da paz é apenas um. Podemos aplicar esse raciocínio a qualquer outro aspecto, físico ou abstrato.
 
-Por isso, acho que dificilmente vamos evoluir muito além do que já evoluímos.  
-É claro que não dá para prever o que pode ser inventado antes que aconteça, mas, olhando para
+Por isso, acho que dificilmente vamos evoluir muito além do que já evoluímos. É claro que não dá para prever o que pode ser inventado antes que aconteça, mas, olhando para a relação entre necessidade e inovação, é provável que o ritmo de descobertas continue diminuindo. Talvez nosso maior obstáculo não seja a tecnologia, mas a ausência de problemas urgentes que exijam soluções realmente novas.
