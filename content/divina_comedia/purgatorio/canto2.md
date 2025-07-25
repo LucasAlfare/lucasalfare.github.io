@@ -5,7 +5,7 @@ title = 'Canto II'
 type = 'docs'
 
 prev = 'divina_comedia/purgatorio/canto1'
-next = 'divina_comedia/paraiso/canto3'
+next = 'divina_comedia/purgatorio/canto3'
 summary = ' '
 weight = 2
 +++
