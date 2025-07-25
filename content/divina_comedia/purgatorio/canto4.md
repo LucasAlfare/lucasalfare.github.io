@@ -1,8 +1,14 @@
-+++ date = '2025-06-02T21:45:38-03:00' title = 'Canto IV'
++++
+date = '2025-07-24T22:15:00-03:00'
+title = 'Canto IV'
 
 type = 'docs'
 
-prev = 'divina_comedia/purgatorio/canto3' next = 'divina_comedia/purgatorio/canto5' summary = ' ' weight = 4 +++
+prev = 'divina_comedia/purgatorio/canto3'
+next = 'divina_comedia/purgatorio/canto5'
+summary = ' '
+weight = 4
++++
 
 Enquanto subíamos a encosta íngreme, uma sensação estranha tomava conta de mim, como se o tempo tivesse se dissolvido entre as rochas, evaporado junto à luz intensa que descia dos céus. Estava tão absorto na voz grave e calma do meu guia, tão fascinado pelas palavras que pareciam arrancar segredos do próprio tecido do universo, que não percebi a marcha do sol, já elevado a alturas que denunciavam a metade do dia. Apenas despertei desse transe quando, ao fim de um caminho estreito, as almas, dispostas em uma espécie de vigília silenciosa, clamaram ao mesmo tempo: “Aqui está o que procurais”.
 
