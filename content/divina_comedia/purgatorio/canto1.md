@@ -9,40 +9,41 @@ prev = 'divina_comedia/inferno/canto33'
 next = 'divina_comedia/purgatorio/canto2'
 +++
 
-O ar ainda cheirava a enxofre e lágrimas quando finalmente saí daquele abismo infernal, onde as sombras gritavam em tormento eterno. Minhas pernas tremiam, não só pelo cansaço, mas pelo alívio de sentir o céu de novo acima de mim — um céu que não pesava como uma maldição, mas respirava como um alívio.
+O ar ainda cheirava a enxofre e lágrimas quando finalmente saí daquele lugar horrível, onde as sombras gritavam pra sempre de dor. Minhas pernas tremiam, não só de cansaço, mas de alívio por ver o céu de novo — um céu que não era uma maldição, mas um alívio de verdade.
 
-Diante de mim, o horizonte se abria num azul intenso, tão puro que parecia limpar a alma só de olhar. O ar, antes carregado de desespero, agora vinha leve, tocando meu rosto como um sopro divino. À frente, Vênus — a "doce estrela do amor" — brilhava no leste, colorindo o amanhecer com um dourado que fazia até os pesadelos do céu darem um passo atrás diante de tanta beleza.
+Na minha frente, o horizonte era um azul tão forte que parecia limpar a alma só de olhar. O ar, que antes era pesado e cheio de desespero, agora era leve e tocava meu rosto como um sopro de Deus. No leste, *Vênus — a "doce estrela do amor"* — brilhava, pintando o amanhecer com um dourado que afastava até os pesadelos do céu.
 
-Virei para o sul e foi então que as vi — quatro estrelas tão brilhantes que pareciam faróis no céu, como se tivessem sido guardadas só para os olhos dos justos. Nunca as tinha visto antes; ninguém do meu tempo conhecia aquelas luzes. Era uma visão antiga, esquecida no tempo, e o brilho delas me deixou tomado por uma reverência que não sei explicar.
+Olhei pro sul e vi quatro estrelas tão brilhantes que pareciam faróis no céu, guardadas só pra quem é justo. Nunca tinha visto aquelas luzes antes; ninguém do meu tempo conhecia elas. Era uma visão antiga, esquecida no tempo, e o brilho delas me deixou cheio de um respeito que não sei explicar.
 
-_— Quem seria digno de viver sob uma luz assim?_ — pensei.
+— Quem merece viver sob uma luz assim? — pensei.
 
-Foi quando um vulto saiu da penumbra — um ancião de barba branca como neve, com cabelos caindo sobre o peito — uma figura realmente imponente. O rosto dele brilhava com o reflexo das quatro estrelas, dando a ele uma aura quase sobrenatural. Antes que eu dissesse qualquer coisa, ele falou. A voz era grave, como um trovão distante:
+Foi quando um homem saiu da sombra — um velho de barba branca e cabelos caindo no peito — uma presença forte. O rosto dele brilhava com o reflexo das quatro estrelas, dando a ele um ar quase sobrenatural. Antes que eu falasse, ele falou. A voz dele era grave, como um trovão longe:
 
-_— Quem é você, que teve coragem de escapar do rio cego do Inferno? As leis do abismo foram quebradas? Ou será que o céu mudou de ideia e agora deixa condenados entrarem nos meus domínios?_
+*— Quem é você, que teve coragem de fugir do rio cego do Inferno? As regras do abismo foram quebradas? Ou será que o céu mudou de ideia e agora deixa os condenados entrarem aqui?*
 
-Virgílio, meu guia, apertou meu braço com força e, antes que eu reagisse, já estava se curvando em respeito, puxando-me para fazer o mesmo.
+Virgílio, meu guia, apertou meu braço forte e, antes que eu reagisse, já se curvava em respeito, puxando-me pra fazer o mesmo.
 
-_— Não viemos por vontade própria_ — disse ele, firme. _— Uma mulher desceu do céu e, por causa das preces dela, fui enviado para guiar este homem. Ele ainda não enfrentou a morte final, mas chegou tão perto dela por conta da própria loucura que quase foi tarde demais._
+— Não viemos porque quisemos — disse ele, firme. — Uma mulher desceu do céu e, por causa das orações dela, fui enviado pra guiar esse homem. Ele ainda não enfrentou a morte final, mas chegou tão perto dela por causa da própria loucura que quase foi tarde demais.
 
-O ancião continuou sério, mas algo no olhar dele mudou ao ouvir aquilo. Virgílio prosseguiu, agora com um tom mais contido, quase diplomático:
+O velho ficou sério, mas algo no olhar dele mudou ao ouvir isso. Virgílio continuou, agora mais calmo, quase falando como um diplomata:
 
-_— Ele busca liberdade, algo que você conhece bem, Catão. Afinal, não foi por ela que você entregou a vida em Útica, deixando para trás o manto que brilhará no Juízo Final?_
+— Ele quer liberdade, algo que você conhece bem, Catão. Afinal, não foi por isso que você deu a vida em Útica, deixando pra trás o manto que vai brilhar no Juízo Final?
 
-O nome ecoou dentro de mim como um trovão. Catão de Útica. O homem que preferiu morrer a viver sob tirania. Um defensor da liberdade até o fim.
+O nome ecoou dentro de mim como um trovão. *Catão de Útica.* O homem que preferiu morrer a viver sob tirania. Um defensor da liberdade até o fim.
 
-O velho pareceu pensar por um momento, os olhos perdidos em alguma lembrança distante.
+O velho pareceu pensar por um momento, os olhos presos a uma lembrança distante.
 
-_— Márcia..._ — murmurou, como se o nome ainda doesse. _— Ela já não pode me comover, não além do rio que separa os mundos. Mas, se uma dama do céu pediu por vocês, não precisam implorar. A vontade dela basta._
+— Márcia... — murmurou, como se o nome ainda doesse. — Ela não pode mais me comover, não além do rio que separa os mundos. Mas, se uma dama do céu pediu por vocês, não precisam implorar. A vontade dela basta.
 
-A expressão dele amaciou, mesmo que a postura continuasse firme como uma espada fincada no chão.
+A expressão dele ficou mais suave, mesmo com o corpo firme, como uma espada cravada no chão.
 
-_— Purifica-o_ — ordenou, olhando para Virgílio. _— Adorna-o com um junco humilde e lava o rosto dele, para que nenhuma marca do Inferno o acompanhe quando ele estiver diante do primeiro ministro do Paraíso._
+— Purifica ele — ordenou, olhando pra Virgílio. — Adorna ele com um junco simples e lava o rosto dele, pra que nenhuma marca do Inferno fique quando ele estiver diante do primeiro ministro do Paraíso.
 
-Antes que disséssemos qualquer coisa, ele sumiu como neblina levada pelo vento.
+Antes que a gente falasse qualquer coisa, ele sumiu como neblina levada pelo vento.
 
-Sem dizer nada, segui Virgílio até a praia deserta, onde as ondas batiam devagar na areia. Lá, ele colheu um junco — e, num milagre silencioso, a planta brotou de novo no instante em que foi arrancada, como se a própria terra do Purgatório se recusasse a deixar algo morrer.
+Sem dizer nada, segui Virgílio até a praia deserta, onde as ondas batiam devagar na areia. Ele colheu um junco — e, num milagre silencioso, a planta brotou de novo assim que foi arrancada, como se a terra do Purgatório não deixasse nada morrer.
 
-Enquanto ele me adornava com o talo verde, senti um peso sair de mim. As lágrimas que caíram não eram de dor, mas de algo mais raro, mais valioso: esperança.
+Enquanto ele me adornava com o talo verde, senti um peso sair de mim. As lágrimas que caíram não eram de dor, mas de algo mais raro: *esperança*
+*.
 
-O sol já subia, iluminando o caminho à frente — um caminho íngreme, difícil, mas que, pela primeira vez desde que entrei nas trevas, parecia levar a um lugar que valia a pena.
+O sol já subia, iluminando o caminho à frente — um caminho difícil, mas que, pela primeira vez desde que entrei na escuridão, parecia levar a um lugar que valia a pena.
