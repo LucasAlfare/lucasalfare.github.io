@@ -1,6 +1,6 @@
 +++
 date = '2025-08-01T10:00:00-03:00'
-title = 'Até que ponto sua opinião importa?'
+title = 'Até que ponto sua (nossa) opinião importa?'
 summary = 'Refletindo sobre a polarização ridícula de hoje em dia e o peso exagerado que damos às nossas próprias opiniões.'
 type = 'blog'
 +++
