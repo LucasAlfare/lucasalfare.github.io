@@ -1,12 +1,13 @@
-# My personal website
+# My Personal Website
 
-Since most website content is in portuguese I'm leaving this README in english and all other interactions in the repository, as well. Feel free to send any pull request to improve/evolve content and also project structure! :D
+Since most of the website content is in Portuguese, I'm writing this README in English, as well as all other interactions in the repository.  
+Feel free to submit pull requests to improve or evolve the content and the project structure! :D
 
-## Tech stack
+## Tech Stack
 
-This is a static website, then I'm using:
-- Markdown as foundation to content;
-- HUGO and Hextra tools to generate a website based on content.
+This is a static website, so I'm using:
+- Markdown as the foundation for the content;
+- HUGO and Hextra to generate the website based on that content.
 
 ## Deployment
 
