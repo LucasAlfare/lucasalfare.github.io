@@ -5,10 +5,6 @@ summary = 'Refletindo sobre a polarização ridícula de hoje em dia e o peso ex
 type = 'blog'
 +++
 
-<p align="center">
-  <img src="bg.jpg" alt="Céu dividido entre paz e caos" width="100%">
-</p>
-
 Vamos começar com um exercício mental. Imagine que, num belo dia, você sai de casa e descobre que o que você mais defendia como opinião e preferência pessoais finalmente acontece. Imagine que você vê tudo acontecendo da noite pro dia e, como esperado, você se sente absolutamente bem.
 
 Imagine que, nesse dia, você sai na rua e vê absolutamente todas as pessoas e tudo em volta perfeitamente compatíveis com aquilo que você mais pensava. Você sente uma paz suprema.
