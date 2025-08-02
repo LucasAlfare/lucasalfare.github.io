@@ -9,6 +9,20 @@ This is a static website, so I'm using:
 - Markdown as the foundation for the content;
 - HUGO and Hextra to generate the website based on that content.
 
+## Including New Content
+
+HUGO makes it very easy to add new content. There are two main ways to do this: using the HUGO CLI commands or creating the files manually.
+
+### HUGO CLI
+
+TODO
+
+### Manually
+
+To manually include content, it’s preferable to place the files directly into the target repository following the desired layout. For example, the `content` folder is the root container, so the structure should follow it. In my current website, I maintain a Blog and a “Book” section, so each new piece of content goes into the appropriate folder.
+
+Once the new content is defined, just place a markdown file named `_index.md` in the corresponding folder. When you commit and push the changes, GitHub Actions will handle the deployment automatically.
+
 ## Deployment
 
 ### GitHub Pages
