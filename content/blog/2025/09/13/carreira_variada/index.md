@@ -86,7 +86,7 @@ Ok, o título dessa seção dá a entender que vou escrever um _tutorial_, mas n
 
 Obviamente, os papéis que dizem _"você está formado"_, _"Você é um profissional"_ são, no fim, apenas papéis. E, quando falo isso, não posso deixar de referenciar um vídeo impressionante do [Fábio Akita](https://www.instagram.com/akitaonrails/), em que ele literalmente pega vários certificados que tem e rasga todos eles! Se quiserem conferir, é este vídeo aqui:
 
-{{< youtube s7ldn31OEFc >}}
+{{< youtube oUPaJxk6TZ0 >}}
 
 Depois vou me aprofundar mais nessa coisa de programação, mas meu ponto aqui é que hoje entendo que aquilo que você aprende numa instituição — e que algum _papel_ certifica — não obrigatoriamente prova que você aprendeu.
 
