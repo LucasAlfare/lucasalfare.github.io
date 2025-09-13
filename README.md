@@ -1,11 +1,12 @@
 # My Personal Website
 
-Since most of the website content is in Portuguese, I'm writing this README in English, as well as all other interactions in the repository.  
+Since most of the website content is in Portuguese, I'm writing this README in English, as well as all other interactions in the repository.
 Feel free to submit pull requests to improve or evolve the content and the project structure! :D
 
 ## Tech Stack
 
 This is a static website, so I'm using:
+
 - Markdown as the foundation for the content;
 - HUGO and Hextra to generate the website based on that content.
 
@@ -15,7 +16,9 @@ HUGO makes it very easy to add new content. There are two main ways to do this: 
 
 ### HUGO CLI
 
-TODO
+```bash
+hugo new content/blog/..../index.md
+```
 
 ### Manually
 
@@ -27,7 +30,7 @@ Once the new content is defined, just place a markdown file named `_index.md` in
 
 ### GitHub Pages
 
-A GitHub Actions workflow is provided in [`.github/workflows/pages.yaml`](./.github/workflows/pages.yaml) to [publish to GitHub Pages](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/) for free. 
+A GitHub Actions workflow is provided in [`.github/workflows/pages.yaml`](./.github/workflows/pages.yaml) to [publish to GitHub Pages](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/) for free.
 
 For details, see [Publishing with a custom GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).
 
@@ -73,4 +76,3 @@ hugo mod tidy
 ```
 
 See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
-
