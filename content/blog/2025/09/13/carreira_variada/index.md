@@ -84,7 +84,7 @@ Outro detalhe sobre a graduação em Farmácia é que, pelo menos na época, nã
 
 Ok, o título dessa seção dá a entender que vou escrever um _tutorial_, mas não é essa minha intenção. Se quiserem um único comando de instrução, a única coisa que posso dizer é que um profissional, seja em qual área for, jamais estará _totalmente formado_.
 
-Obviamente, os papéis que dizem _"você está formado"_, _"Você é um profissional"_ são, no fim, apenas papéis. E, quando falo isso, não posso deixar de referenciar um vídeo impressionante do [Fábio Akita](https://www.instagram.com/akitaonrails/), em que ele literalmente pega vários certificados que tem e rasga todos eles! Se quiserem conferir, é este vídeo aqui:
+Obviamente, os papéis que dizem _"você está formado"_, _"Você é um profissional"_ são, no fim, apenas papéis. E, quando falo isso, não posso deixar de referenciar um vídeo impressionante do [Fábio Akita](https://www.instagram.com/akitaonrails/), em que ele literalmente pega vários certificados que tem e rasga todos eles! Se quiserem conferir, é este vídeo aqui na altura da minutagem `20:36`:
 
 {{< youtube oUPaJxk6TZ0 >}}
 
