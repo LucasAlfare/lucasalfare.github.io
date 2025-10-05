@@ -6,8 +6,6 @@ type = 'blog'
 summary = 'Minha reflexão sobre como encarar o fluxo da vida.'
 +++
 
-# Qual o sentido da vida?
-
 Esse é aquele tipo de pergunta “clichê”, mas... sabe de uma coisa? Ultimamente tenho afirmado o seguinte: clichês são exatamente o que são justamente por serem constatações muito justas sobre algum tema. Não seria diferente com o ato de a gente se perguntar sobre o sentido da vida também.
 
 E, falando nisso: qual é a minha motivação em escrever sobre esse tema?
@@ -16,10 +14,7 @@ Alguém poderia dizer que eu estou querendo forçar e dar uma de “filósofo”
 
 Sendo assim, o que devemos esperar de resposta para essa pergunta? O que exatamente representa um “sentido” para o ato de viver?
 
-
----
-
-# A origem da vida
+## A origem da vida
 
 Acredito que, se a gente tenta pensar sobre coisas tão fundamentais como essas, obrigatoriamente devemos partir das definições de coisas ainda mais fundamentais, como, por exemplo, o que raios é “vida”? De onde essa vida surgiu?
 
@@ -41,10 +36,7 @@ E a parte interessante é que, pelo menos na minha visão, independentemente do 
 
 Sim, não importa se você segue pelo caminho da origem da vida através da aleatoriedade ou da permissão divina, no fundo, a vida será... vida.
 
-
----
-
-# O fim da vida
+## O fim da vida
 
 Ok, parece estranho falar sobre isso. Mas, muitas vezes, quando se discute sobre a vida em si, pouco se fala sobre seu fim. Talvez isso aconteça justamente pelo fato de que o fim da vida é algo que pode apavorar qualquer um que comece a pensar profundamente sobre o tema. Acredito que poucas pessoas, em sã consciência, desejem o fim da possibilidade de estarem vislumbrando a vida, por mais crentes na aleatoriedade que sejam.
 
@@ -52,10 +44,7 @@ Mas trago esse ponto aqui na minha reflexão justamente porque vejo que o ato de
 
 Parece confuso de entender, eu sei, mas, nas minhas reflexões pessoais, eu sempre penso que, se minha vida tende a finalizar algum dia, com certeza o meu trajeto até esse fim é o que poderá dar o tal sentido à minha própria vida.
 
-
----
-
-# No fim, não importa
+## No fim, não importa
 
 Como assim? No final da vida não importa o que foi feito? Quer dizer que alguém pode fazer o que bem entender e depois simplesmente “morrer” e pronto?
 
@@ -71,10 +60,7 @@ O ponto é que, se você deseja entender o sentido da vida, permita-se compreend
 
 Mas o que podemos entender sobre o “meio” da vida?
 
-
----
-
-# Não há cartilha para a sua vida
+## Não há cartilha para a sua vida
 
 Isso também é controverso. O que quero dizer neste tópico é algo como: viva conforme a sua realidade. Porém, isso é perigoso. Afirmar algo assim é complicado, visto que esse tipo de ideia pode facilmente ser distorcido em conceitos libertários como “viva do seu jeito” ou “faça o que você quiser”.
 
@@ -98,10 +84,7 @@ E vejam a sutileza aqui: muitas pessoas que rejeitam essas etapas para si mesmas
 
 Portanto, o sentido da vida é algo totalmente relativo.
 
-
----
-
-# Como viver?
+## Como viver?
 
 Caramba, definitivamente esse é o tipo de pergunta que ninguém, em sã consciência, deveria responder. Pelo menos não de forma absoluta, até porque acabamos de aferir que a vida de cada pessoa é algo único e, por isso, requer formas únicas de execução.
 
@@ -111,10 +94,7 @@ De qualquer maneira, um exercício que vale a pena qualquer pessoa fazer é just
 
 Mas vale lembrar que isso, com certeza, só vai ser válido para alguém que definitivamente pensa sobre o sentido de sua própria vida. Uma pessoa que está feliz do jeito que está, definitivamente, não vai encontrar nenhuma serventia em sair da realidade em que vive para ter experiências com coisas novas. Novamente, é algo relativo.
 
-
----
-
-# Pare de se comparar
+## Pare de se comparar
 
 Isso deveria ser óbvio, mas algo que é muito comum hoje em dia — ainda mais com toda essa internet — é justamente o fato de as pessoas se compararem com outras. E não me entenda mal: as pessoas fazem esse tipo de coisa de forma totalmente inconsciente. Não é como se elas entrassem num Instagram da vida, olhassem alguma coisa e dissessem: “vou me comparar”.
 
@@ -132,9 +112,7 @@ Ao contrário do que muitos pensam, o abandono súbito das tais “redes sociais
 Definitivamente, isso aí vai ser tema para outra reflexão que quero trazer aqui depois.
 
 
----
-
-# E quanto a mim (Lucas)?
+## E quanto a mim (Lucas)?
 
 Como eu disse no começo, tenho pensado bastante sobre esse tema, aplicando muita coisa na minha própria vida. Tenho refletido sobre questões como: “Caramba, por qual motivo exatamente eu estou vivendo?” ou “Isso aqui realmente vale o meu esforço?”.
 
