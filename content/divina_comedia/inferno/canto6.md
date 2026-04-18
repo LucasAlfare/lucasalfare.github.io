@@ -34,11 +34,11 @@ Passamos sobre as sombras. A chuva pesada as achatava contra o chão, e eu pisav
 
 A maioria jazia imóvel. Mas uma delas se ergueu de repente, sentando-se no meio da lama, assim que me viu passar.
 
-— Você aí, que atravessa este inferno — disse a sombra, com uma voz que parecia vir de um poço seco. — Reconheça-me, se é capaz. Você foi feito antes que eu fosse desfeito.
+— Você aí, que atravessa este inferno — disse a sombra, com uma voz que parecia vir de um poço seco. — Me reconheça, se é capaz. Você foi feito antes que eu fosse desfeito.
 
 Olhei para aquela figura dilacerada pela chuva. O rosto era vago, familiar como uma lembrança que não se completa.
 
-— A agonia que você sofre — respondi — talvez apague sua imagem da minha mente. Não parece que eu o tenha visto nunca. Mas diga-me quem é você, jogado num lugar tão doloroso que, mesmo que existam penas piores, nenhuma é tão repugnante quanto esta.
+— A agonia que você sofre — respondi — talvez apague sua imagem da minha mente. Não parece que eu o tenha visto nunca. Mas me diga quem é você, jogado num lugar tão doloroso que, mesmo que existam penas piores, nenhuma é tão repugnante quanto esta.
 
 A sombra suspirou.
 
@@ -58,23 +58,23 @@ Ele ergueu o rosto. Seus olhos vazios pareciam enxergar um futuro que eu ainda d
 
 Fechei as mãos. *Guelgos e gibelinos. Negros e brancos.* A profecia era obscura, mas o cheiro de guerra civil impregnava cada palavra.
 
-— Dois justos há — continuou Ciacco —, mas ninguém os escuta. Soberba, inveja e avareza são as três faíscas que incendiaram os corações.
+— Há dois justos — continuou Ciacco —, mas ninguém os escuta. Soberba, inveja e avareza são as três faíscas que incendiaram os corações.
 
 Sua voz se apagou como uma fogueira encharcada.
 
 Ainda assim, precisei saber mais.
 
-— Ensina-me ainda — insisti. — Farinata, Tegghiaio, que foram tão dignos, Jacopo Rusticucci, Arrigo, Mosca e outros que puseram engenho em bem fazer... diga-me onde estão. Deixa que eu os conheça. Um grande desejo me aperta para saber se o céu os adoça ou o inferno os envenena.
+— Me ensina ainda — insisti. — Farinata, Tegghiaio, que foram tão dignos, Jacopo Rusticucci, Arrigo, Mosca e outros que puseram engenho em bem fazer... me diga onde estão. Deixa que eu os conheça. Um grande desejo me aperta para saber se o céu os adoça ou o inferno os envenena.
 
 Ciacco balançou a cabeça.
 
-— Estão entre as almas mais negras. Culpas diversas os puxam para o fundo. Se você descer o bastante, poderá vê-los. Mas quando estiver de volta ao doce mundo, te peço: traga-me à memória dos vivos. Não te digo mais nada, nem te respondo.
+— Estão entre as almas mais negras. Culpas diversas os puxam para o fundo. Se você descer o bastante, poderá vê-los. Mas quando estiver de volta ao doce mundo, te peço: me traga à memória dos vivos. Não te digo mais nada, nem te respondo.
 
 Seus olhos retos se torceram em vesgos. Fitou-me por um instante — um segundo apenas — e então abaixou a cabeça. Caiu com ela, igual aos outros cegos na lama.
 
 Fiquei olhando o corpo informe de Ciacco ser coberto pela neve suja. Virgílio tocou meu ombro.
 
-— Não se levanta mais daqui até o som da trombeta angélica — disse o mestre —, quando vier a potestade inimiga. Cada um reverá sua triste tumba, retomará sua carne e sua figura, ouvirá o que ressoa pela eternidade.
+— Não vai se levantar mais daqui até o som da trombeta angélica — disse o mestre —, quando vier a potestade inimiga. Cada um reverá sua triste tumba, retomará sua carne e sua figura, ouvirá o que ressoa pela eternidade.
 
 Caminhamos sobre aquela mistura sórdida de sombras e chuva. Passos lentos. E enquanto pisávamos naquela humanidade degradada, uma questão começou a queimar na minha língua.
 
@@ -82,7 +82,7 @@ Caminhamos sobre aquela mistura sórdida de sombras e chuva. Passos lentos. E en
 
 Virgílio nem hesitou.
 
-— Retorna à tua ciência — respondeu. — Ela quer que, quanto mais perfeita é uma coisa, mais sente o bem e também a dor. Embora esta gente amaldiçoada nunca atinja a verdadeira perfeição, depois da ressurreição espera sentir mais do que agora.
+— Volte à sua ciência — respondeu. — Ela quer que, quanto mais perfeita é uma coisa, mais sente o bem e também a dor. Embora esta gente amaldiçoada nunca atinja a verdadeira perfeição, depois da ressurreição espera sentir mais do que agora.
 
 A imagem me atingiu como um punhal. *Os corpos voltarão. Ossos, carne, nervos — tudo reavivado para sentir cada gota de chuva, cada garra de Cerberus, com uma intensidade que a alma sozinha jamais poderia experimentar.*
 
