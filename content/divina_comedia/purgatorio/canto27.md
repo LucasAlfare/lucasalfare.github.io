@@ -1,13 +1,13 @@
 +++
 date = '2026-04-17T21:45:38-03:00'
-title = 'Canto XXVIII'
+title = 'Canto XXVII'
 
 type = 'docs'
 
-prev = 'divina_comedia/purgatorio/canto27'
-next = 'divina_comedia/purgatorio/canto29'
+prev = 'divina_comedia/purgatorio/canto26'
+next = 'divina_comedia/purgatorio/canto28'
 summary = ' '
-weight = 28
+weight = 27
 +++
 
 Era como aqueles momentos em que os primeiros raios do sol vibram sobre o lugar onde seu Criador derramou o sangue, enquanto o rio Iber corre sob a balança de Libra, e as águas do Ganges já ardem sob o calor da nona hora. Assim estava o sol, e o dia se despedia quando o anjo de Deus surgiu diante de nós, radiante.
