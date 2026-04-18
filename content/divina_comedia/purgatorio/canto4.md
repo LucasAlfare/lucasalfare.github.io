@@ -10,29 +10,68 @@ summary = ' '
 weight = 4
 +++
 
-Enquanto subíamos a encosta íngreme, uma sensação estranha tomava conta de mim, como se o tempo tivesse se dissolvido entre as rochas, evaporado junto à luz intensa que descia dos céus. Estava tão absorto na voz grave e calma do meu guia, tão fascinado pelas palavras que pareciam arrancar segredos do próprio tecido do universo, que não percebi a marcha do sol, já elevado a alturas que denunciavam a metade do dia. Apenas despertei desse transe quando, ao fim de um caminho estreito, as almas, dispostas em uma espécie de vigília silenciosa, clamaram ao mesmo tempo: “Aqui está o que procurais”.
+A consciência do tempo é uma coisa traiçoeira. Quando nos entregamos a um prazer intenso ou a uma dor profunda, a alma se recolhe de tal forma nessa experiência que simplesmente esquece de contar os minutos. É um erro comum pensar que temos múltiplas almas operando em paralelo — na verdade, somos uma só, e quando ela se fixa em algo, o resto do mundo desaparece. Eu mesmo acabei de viver isso na pele.
 
-Diante de nós, um desfiladeiro que lembrava a garganta de um animal selvagem se abria. Virgílio avançou com uma determinação quase sobre-humana, e eu o segui, sentindo que cada passo era um teste da minha fé e da minha resistência. A trilha parecia traçada não para pés humanos, mas para asas, como se apenas os que ardem em desejo puro pudessem galgar aquele labirinto de pedra. “Continue atrás de mim,” disse ele, sem sequer virar o rosto, “pois a esperança e a luz estão à frente.”
+Enquanto ouvia, extasiado, as palavras daquele espírito no antepurgatório, o sol subiu cinquenta graus sem que eu percebesse. Cinquenta graus. Uma escalada silenciosa e implacável. Quando finalmente nos encontramos onde as almas clamaram — “Aqui está o que procurais” —, percebi o quanto estava absorto. E agora, diante de nós, se abria uma passagem tão estreita que faria inveja às trilhas mais traiçoeiras da Toscana.
 
-A subida se estreitava, obrigando-me a usar mãos e pés para não escorregar. O peso do corpo parecia dobrar, e por vezes temi não suportar. Quando chegamos ao topo de uma borda íngreme, exausto e com os pulmões ardendo, lancei a pergunta: “Mestre, para onde agora?”. Ele apenas respondeu, apontando a trilha que se perdia adiante: “Segue-me, sem hesitar. Este caminho não cede a indecisos. Logo encontraremos uma orientação mais clara.”
+Nas montanhas de San Leo ou em Noli, na descida íngreme de Bismantova, você ainda pode usar os pés. Aqui, porém, é preciso voar. Voar com as asas rápidas do desejo, seguindo o guia que me dava esperança e iluminava o caminho. Virgílio subia primeiro, eu atrás, ambos apertados entre as paredes de rocha que nos abraçavam como um torno. Mãos e pés se agarravam ao chão instável, cada movimento uma negociação com a gravidade.
 
-O cume à nossa frente parecia roçar o céu. A inclinação era tamanha que minha vista não alcançava o fim. Senti o cansaço pesar, e pela primeira vez, temi ficar para trás. “Pai amado,” implorei, a voz trêmula, “olha para mim… estou só, se parar agora.” Ele voltou-se, seus olhos carregando uma chama de firmeza: “Filho, vá. Ali adiante, onde a borda curva o monte, é o teu próximo repouso. Não desiste agora.”
+Quando alcançamos o topo daquela saliência e a encosta se abriu diante de nós, perguntei, ofegante:
 
-Suas palavras me atingiram como uma lança de fogo. Juntei as últimas forças, escalando com mãos e pés até sentir sob meus pés a faixa de pedra que ele apontava. Sentamo-nos lado a lado, voltados ao leste, para o sol que já se erguia soberano. Olhei para baixo, para o mundo que deixávamos para trás, e depois ergui os olhos ao céu. A luz me tocava pela esquerda, e fiquei por um instante maravilhado, perplexo com aquele estranho alinhamento do sol e da terra.
+— Mestre meu, que caminho seguimos agora?
 
-Virgílio percebeu meu silêncio. “Estás confuso com a rota do astro, não é? Se os gêmeos do céu, Castor e Pólux, estivessem agora ao lado deste sol, verias o círculo rubro do Zodíaco girar mais estreito em torno das Ursas, não seguindo o curso que conheces.” Sua voz era calma, mas cada palavra parecia deslizar sob a superfície do real, abrindo um entendimento maior. De repente, percebi a lógica oculta que me escapava antes, e declarei: “Vejo agora com clareza onde meu intelecto falhava: este movimento celeste, que os homens chamam Equador, nunca abandona o equilíbrio entre sol e inverno. Aqui, porém, inclina-se ao norte, como outrora os hebreus o viam inclinar-se ao calor.”
+Ele respondeu sem hesitar:
 
-Seguindo a trilha de pensamentos, perguntei: “Diz-me, mestre, quanto ainda devemos caminhar? Meus olhos já não alcançam o fim da subida.” Ele sorriu, um sorriso leve que parecia quebrar um peso invisível no ar. “Esta montanha, Dante, é dura apenas na base. Quanto mais subimos, mais suave se torna, até que chegará o momento em que subir será tão fácil quanto navegar com vento favorável. Esse será o sinal de que o teu esforço encontrou repouso.”
+— Nenhum passo teu deve cair em falso. Sobe atrás de mim, continue ganhando altitude, até que apareça alguma escolta sábia.
 
-Assim que terminou de falar, uma voz ecoou próxima, cortando o silêncio: “Talvez tu queiras sentar um pouco antes de continuar.” Viramos ao mesmo tempo e vimos uma rocha projetando sombra sobre um pequeno grupo de almas. Uma delas chamou minha atenção: estava sentada, os braços abraçando os joelhos, o rosto mergulhado entre eles como se quisesse desaparecer do mundo.
+Olhei para cima. O cume era tão alto que a vista não alcançava, e a encosta íngreme parecia desafiar qualquer trigonometria. A fadiga começava a pesar nos meus ossos. Eu, que já não era mais o homem vigoroso de Florença, senti o cansaço me puxar para baixo.
 
-“Mestre,” disse baixinho, “olha aquele que parece ser a própria imagem da negligência.” A alma ergueu o rosto, movendo-se com uma lentidão quase exasperante, e respondeu com um meio sorriso cansado: “Segue tu, que tens forças para subir.”
+— Doce pai — chamei, com a voz arrastada —, vira-te e olha como fico para trás se não descansarmos.
 
-Meu coração apertou. Reconheci naquele instante o rosto de Belacqua, e minha fadiga se desfez por um momento. Fui até ele. “Belacqua,” disse, meio rindo, “não sinto mais pena de ti. Mas diz, por que estás sentado assim? Esperas algo ou apenas retomaste teus velhos hábitos?”
+Virgílio apontou para uma saliência um pouco acima, uma espécie de cintura natural que contornava todo o monte.
 
-Ele ergueu os olhos, sua voz baixa e arrastada: “Ah, irmão… subir não me serviria de nada. O anjo do portão não me deixará passar até que eu tenha vagado aqui pelo tempo que desperdicei em vida. Só as orações daqueles que vivem em graça podem abreviar essa espera.”
+— Filho meu, chega até ali.
 
-Enquanto ele falava, Virgílio já me chamava, apontando o sol que tocava o zênite. “Vem, Dante. O meio-dia nos alcança, e a sombra do Marrocos já anuncia a noite em outros horizontes.”
+Suas palavras agiram como esporas. Reuni o que restava das minhas forças e me arrastei atrás dele, até que finalmente a borda rochosa ficou sob meus pés. Sentamo-nos ambos, virados para o leste, de onde havíamos subido — uma posição que, segundo se diz, ajuda a recuperar o fôlego.
 
-Senti um arrepio. Era como se o tempo, antes despercebido, tivesse agora um peso real, medido não em horas, mas em decisões, em passos, em escolhas que não podiam mais ser adiadas. Olhei uma última vez para Belacqua, para sua figura imóvel, e voltei a subir, seguindo meu guia, com o coração marcado pela certeza de que cada instante naquele monte era uma lição de eternidade.
+Primeiro, olhei para as terras baixas, lá embaixo. Depois ergui os olhos para o sol. E algo me deixou perplexo: os raios nos atingiam pelo lado esquerdo.
 
+_Como assim?_ O sol deveria estar à nossa direita, se estivéssemos subindo para o norte. Virgílio percebeu meu espanto diante daquele carro de luz que cortava o céu entre nós e o norte.
+
+— Se Castor e Pólux — explicou ele, com paciência de quem ensina a um aluno lento — estivessem acompanhando aquele espelho do sol que sobe e desce com sua luz, você veria o zodíaco rubro girando ainda mais próximo das Ursas, a menos que saísse do caminho antigo. Para entender isso, imagine Sião e este monte sobre a terra, ambos compartilhando o mesmo horizonte, mas em hemisférios diferentes. O caminho que Fáeton não soube percorrer com seu carro, você verá como ele deve passar de um lado para o outro.
+
+Pensei. Processei. E de repente a chave virou.
+
+— Certo, mestre — disse, sentindo o encaixe perfeito da compreensão —, nunca vi tão claro como agora. O meio-círculo do movimento superior, que os sábios chamam de Equador, e que fica sempre entre o sol e o inverno, se afasta daqui em direção ao norte exatamente na medida em que os hebreus o viam para o lado quente. Mas, se me permite, gostaria de saber quanto ainda temos de andar. Porque essa encosta sobe mais do que meus olhos podem alcançar.
+
+Virgílio sorriu. Um sorriso enigmático.
+
+— Esta montanha é assim: no começo, lá embaixo, é pesada. Quanto mais se sobe, menos custa. Quando ela se tornar tão suave que subir será tão fácil quanto descer um rio a favor da corrente, aí você terá chegado ao fim do caminho. Espere para descansar lá. Não respondo mais do que isso, e sei que é verdade.
+
+Antes que eu pudesse protestar, uma voz cortou o ar vindo de perto:
+
+— Talvez você precise sentar antes disso!
+
+Nós dois nos viramos na direção do som. À esquerda, um grande bloco de pedra que nem eu nem ele havíamos notado antes. Aproximamo-nos. Atrás da rocha, algumas pessoas estavam à sombra, encostadas com a desleixo de quem não tem pressa nenhuma. E entre elas, um homem que me pareceu particularmente exausto. Sentado, abraçava os joelhos, o rosto enterrado entre eles, como se o peso do mundo estivesse concentrado na nuca.
+
+— Doce senhor meu — sussurrei a Virgílio —, olha aquele ali. Parece a própria preguiça em forma humana.
+
+O homem ergueu o rosto lentamente, movendo-o para cima ao longo da própria coxa, como se cada centímetro exigisse um esforço sobre-humano. Seus olhos semibrilho encontraram os meus.
+
+— Ora, vai tu para cima, já que és tão valente — disse, com um tom que misturava deboche e cansaço.
+
+Na mesma hora, eu soube quem era. Belacqua. O florentino. A fadiga que ainda apertava meu peito não me impediu de me aproximar. Ele levantou a cabeça com dificuldade e completou:
+
+— Já viste como o sol guia o carro pelo ombro esquerdo?
+
+Seus gestos lentos e suas palavras arrastadas arrancaram de mim um riso involuntário. Depois, controlando-me:
+
+— Belacqua, não me dói por ti agora. Mas me diz: por que estás aí sentado? Esperas por um guia? Ou retomaste o teu velho hábito?
+
+— Ó irmão — respondeu ele, com a voz cansada de quem já repetiu essa explicação muitas vezes —, que vantagem teria em subir? O anjo de Deus que está sentado na porta não me deixaria passar para os martírios. Primeiro, o céu precisa me rodar do lado de fora tanto tempo quanto eu rodei em vida, porque adiei os bons suspiros até o fim. A menos que antes alguma oração me ajude, uma que surja de um coração que vive em graça. O resto não vale nada, não é ouvido no céu.
+
+Virgílio já subia à minha frente.
+
+— Anda agora — disse ele —, vê que o sol já tocou o meio-dia e a noite cobre Marrocos até a beira da água.
+
+Olhei para Belacqua mais uma vez. Ele permaneceu ali, abraçado aos próprios joelhos, esperando — talvez por uma oração, talvez pelo simples prazer de esperar. Virei as costas e comecei a subir. A montanha ainda pesava, mas eu já sabia: quanto mais alto, mais leve.
