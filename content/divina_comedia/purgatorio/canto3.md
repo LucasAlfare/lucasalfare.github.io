@@ -10,56 +10,50 @@ summary = ' '
 weight = 3
 +++
 
-A fuga súbita daqueles espíritos assustados ainda ecoava na planície quando me aproximei de Virgílio, meu guia, minha âncora nesse mar de incertezas. Sem ele, como escalaria aquela montanha íngreme? Como enfrentaria as sombras do Purgatório sozinho? Ele, porém, parecia consumido por um remorso silencioso, seus passos antes apressados agora contidos pela dignidade que sempre o caracterizara. Oh, consciência nobre e pura, como até o mais ínfimo erro te fere com amargura!  
+A súbita fuga das almas as havia dispersado pela campina, todas voltadas para o monte onde a justiça divina nos prova. Eu, porém, me apertei contra meu fiel companheiro. Como teria seguido sem ele? Quem me guiaria montanha acima?
 
-Enquanto ele diminuía o ritmo, minha mente, antes contraída pelo medo, expandiu-se novamente, ávida por compreender. Ergui os olhos para o pico da montanha, que se perdia nas alturas como um desafio ao céu. O sol, rubro e flamejante atrás de nós, projetava minha sombra à frente, quebrada pela figura de Virgílio—único obstáculo entre a luz e a terra.  
+Virgílio parecia remoer algo em si mesmo. *Oh, consciência digna e pura, como uma pequena falta te morde amargamente!*
 
-Voltei-me de repente, um frio percorrendo-me a espinha ao pensar que ele pudesse ter desaparecido. A paisagem à minha frente estava vazia, escura.  
+Quando seus pés diminuíram o ritmo — pois a pressa só corrompe a dignidade de cada ato — minha mente, antes contraída, expandiu-se como algo que desperta. Voltei o olhar para a encosta que se abria em direção ao céu mais alto.
 
-—*Por que você ainda tem toda essa dúvida?* — sua voz soou firme, e quando meus olhos o encontraram, vi nele a mesma segurança de sempre. —*Não acredita que estou contigo o tempo todo e que sou teu guia?*  
+O sol, que flamejava rubro atrás de nós, estava diante de mim, quebrado pela figura do meu guia. Seus raios encontravam em mim um apoio. Virei-me para o lado com medo de ser abandonado, e vi apenas a terra escura à minha frente. Então meu consolador começou, todo voltado para mim:
 
-Ele então revelou o que eu, em meu temor, havia esquecido: seu corpo jazia em Nápoles, longe dali, arrancado da vida em Brindisi. A sombra que eu via não era dele, pois os espíritos não a projetam—assim como os céus não impedem que a luz de um astro alcance o outro.  
+— Por que ainda duvidas? Não acreditas que estou contigo e que te guio? É vesperal lá onde está sepultado o corpo dentro do qual eu fazia sombra. Nápoles o tem, e o tiraram de Brindisi. Agora, se nada projeta sombra diante de mim, não te maravilhes mais do que com os céus, onde um raio não bloqueia o outro. A Virtude que dispõe corpos assim a sofrer tormentos, calores e gelos, não quer que se revele a nós como age. Louco é quem espera que nossa razão possa percorrer a via infinita que uma Substância em três Pessoas percorre. Contentai-vos, ó gente humana, com o *porque*; se pudésseis ver tudo, não teria sido necessário Maria dar à luz. E desejastes ver sem fruto aqueles cujo desejo teria sido aquietado, mas que lhes é dado como luto eterno: falo de Aristóteles e Platão e muitos outros.
 
-—*Louco é quem espera que a razão humana desvende o infinito caminho da Trindade* — continuou, sua voz carregada de uma gravidade que me fez calar. —*Que os mortais se contentem com o que recebem. Se vocês pudessem ver tudo, não haveria necessidade da graça divina. Até os maiores pensadores—Aristóteles, Platão—agora carregam o luto da sabedoria incompleta.*  
+E então ele inclinou a fronte, não disse mais nada e permaneceu perturbado.
 
-Seu rosto escureceu, e ele calou-se, mergulhado em pensamentos sombrios. Avançamos então até a base da montanha, onde a rocha se erguia tão abrupta que nenhum músculo humano, por mais ágil, a venceria sem ajuda. Entre Lerici e Turbia, os penhascos mais selvagens do mundo seriam uma escada comparados àquela parede.  
+Nesse meio-tempo, chegamos ao pé do monte. A rocha era tão íngreme que pernas ágeis seriam inúteis. Entre Lerici e Turbia, a mais desolada e escarpada ruína é uma escada fácil e aberta perto daquela encosta.
 
-—*Agora quem por aqui saberia dizer onde que esse barranco fica mais fácil de subir?* — Virgílio ponderou, os olhos fixos no chão enquanto buscava uma solução.  
+— Ora, quem sabe de que lado a encosta desce — disse meu mestre, parando o passo — de modo que possa subir quem não tem asas?
 
-Foi então que os vi—figuras pálidas aproximando-se à esquerda, movendo-se com uma lentidão quase cerimonial, como se cada passo fosse um ato de devoção.  
+Enquanto ele, com o olhar baixo, examinava mentalmente o caminho, eu mirava em volta, pelas rochas acima. À esquerda, avistei uma gente de almas que moviam os pés em nossa direção, mas vinham tão lentas que nem pareciam andar.
 
-—*Mestre, olhe!* — apontei, esperançoso. —*Talvez eles possam dar alguma informação para nós.*  
+— Levanta os olhos, mestre — disse. — Eis ali quem nos dará conselho, se tu mesmo não podes obtê-lo.
 
-Virgílio ergueu o olhar e, com um gesto sereno, decidiu:  
+Ele olhou então e, com gesto livre, respondeu:
 
-—*Muito bem, meu filho. Vamos segui-los, e tenha fé que vamos conseguir alguma informação.*  
+— Vamos até lá, pois eles vêm devagar. E tu, doce filho, mantém firme a esperança.
 
-Ainda estavam distantes—mil passos, talvez—quando, de repente, pararam. Alguns recuaram, confusos. Percebi então: minha sombra, projetada no chão, os assustara.  
+Aquele povo ainda estava distante — digo, depois de nossos mil passos, tanto quanto um bom atirador lançaria com a mão — quando se apertaram todos contra os duros rochedos da alta ribanceira. Pararam, firmes e juntos, como quem fica a olhar quando caminha em dúvida.
 
-—*Não fiquem impressionados* — Virgílio explicou, sua voz ecoando como um decreto. —*Este que está aqui comigo ainda está vivo. Mas não é sem a graça do céu que ele busca superar esta barreira.*  
+— Ó bem-acabados, ó espíritos já eleitos — começou Virgílio —, por aquela paz que creio que todos vós aguardais, dizei-nos onde a montanha se inclina de modo que seja possível subir, pois perder tempo desagrada mais a quem mais sabe.
 
-As almas, agora compreendendo, fizeram um gesto curioso: viraram-se e, com as costas das mãos, nos convidaram a segui-las, como quem abre um caminho sagrado.  
+Como as ovelhas saem do curral — uma, duas, três — e as outras ficam, tímidas, baixando olhos e focinho, e o que a primeira faz, as outras fazem, encostando-se nela se ela para, simples e quietas, sem saber o porquê; assim vi moverem-se para vir à frente aquela mandra afortunada naquele instante, pudicas no rosto e honestas no andar.
 
-Um deles, porém, destacou-se. Louro, de feições nobres, mas com uma cicatriz cortando uma das sobrancelhas, fitou-me intensamente.  
+Mas quando aqueles da frente viram a luz no chão quebrada pelo meu lado direito — a ponto de minha sombra se projetar até a gruta — pararam e recuaram um pouco, e todos os outros que vinham atrás, sem saber o porquê, fizeram o mesmo.
 
-—*Por favor, olha pra mim* — pediu. —*Me fale: já me viu enquanto eu estava vivo?*  
+— Sem que vós pergunteis, eu vos confesso — disse meu mestre — que este é corpo humano que vedes; por isso a luz do sol se fende no chão. Não vos maravilheis, mas acreditai que não sem virtude que vem do céu ele tenta transpor esta parede.
 
-Neguei com um gesto humilde, e ele, sorrindo, mostrou-me uma ferida no peito.  
+E aquela gente digna, então, com as costas das mãos fazendo sinal, disse: — Voltai, entrai adiante, pois.
 
-—*Eu sou Manfredi* — declarou, seu nome carregando o peso de uma história que eu mal podia imaginar. —*Neto da imperatriz Constança. Quando voltar pro mundo dos vivos, procura pela minha filha, herdeira da honra da Sicília e Aragão. Diz pra ela que mesmo com meus pecados terríveis a misericórdia divina me acolheu naquele momento, quando tomei aquelas facadas mortais. Nesse momento eu me entreguei à nossa Mãe Santíssima enquanto me derramava em lágrimas.*  
+Um deles começou:
 
-Seu sorriso era triste, mas não desesperado.  
+— Quem quer que sejas, assim andando, volta o rosto: presta atenção se alguma vez me viste lá embaixo.
 
-—*O pastor de Cosenza, enviado pelo Papa, não entendeu isso. Se tivesse, meus ossos ainda repousariam em Benevento, sob a guarda daquela velha ponte. Em vez disso, a chuva os lava agora perto do rio Verde, longe de meu reino.*  
+Voltei-me para ele e olhei-o fixo. Era louro, belo, de gentil aspecto, mas um golpe lhe havia partido uma das sobrancelhas. Quando humildemente neguei tê-lo visto jamais, ele disse:
 
-Mas sua voz não carregava rancor.  
+— Agora vê.
 
-—*Nenhuma maldição é tão forte que o Amor Eterno não possa revertê-la, enquanto houver um lampejo de esperança.*  
+E mostrou-me uma ferida no alto do peito. Então, sorrindo, falou:
 
-Contudo, sua expiação ainda não terminara. Por ter morrido em excomunhão, mesmo arrependido, deveria esperar trinta vezes o tempo de sua rebeldia antes de prosseguir.  
-
-—*Agora compreende?* — seus olhos brilharam. —*Assim vai poder trazer alegria à minha Constança. Fale pra ela que me viu aqui, e peça que ela ore por mim, afinal aqui muito se ganha com as orações dos vivos.*  
-
-Essa foi a explicação de Manfredi sobre como o tempo de espera daquelas almas pode ser reduzido sempre que os vivos oram por eles, a qual eu ouvi atentamente.
-
-Assim, enquanto as almas retomavam sua marcha lenta, fiquei ali, com suas palavras ecoando em mim—um testemunho de que nem mesmo os mais perdidos estão além do alcance da redenção.
+— Eu sou Manfredo, neto da imperatriz Constança. Por isso te peço que, quando voltares, vás à minha bela filha, mãe da honra da Sicília e de Aragão, e digas a verdade a ela, se outro disser o contrário. Depois que tive o corpo rompido por dois golpes mortais, entreguei-me, chorando, àquele que perdoa de boa vontade. Horríveis foram meus pecados, mas a bondade infinita tem braços tão longos que acolhe quem se volta a ela. Se o pastor de Cosenza, que foi enviado para me caçar por Clemente naquela época, tivesse lido bem essa face em Deus, meus ossos ainda estariam na cabeceira da ponte perto de Benevento, sob a guarda do pesado monturo. Agora a chuva os banha e o vento os move fora do reino, quase junto ao Verde, onde ele os trasladou com velas apagadas. Por suas maldições não se perde tanto que o eterno amor não possa retornar, enquanto a esperança mantém algum verde. É verdade que quem morre em contumácia da Santa Igreja, ainda que se arrependa no fim, deve ficar fora desta ribanceira por trinta vezes o tempo que permaneceu em sua presunção, a menos que tal decreto se torne mais curto por boas preces. Vê agora se podes me alegrar, revelando à minha boa Constança como me viste e também esta interdição, pois aqui se adianta muito por aqueles que lá vivem.
