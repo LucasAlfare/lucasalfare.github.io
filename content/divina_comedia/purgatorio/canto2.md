@@ -10,42 +10,56 @@ summary = ' '
 weight = 2
 +++
 
-A aurora se despedia do céu com um suspiro dourado, suas faces brancas e rosadas agora tingidas de um laranja envelhecido, como se o tempo pesasse até sobre a luz do amanhecer. Eu caminhava ao lado de Virgílio, meu guia, com o coração acelerado pela jornada que ainda ecoava em mim — o peso do Inferno, suas chamas e lamentos, ainda fresco na memória. O mar se estendia à nossa frente, um espelho vasto e inquieto, refletindo o céu que se equilibrava entre a promessa do dia e o mistério da noite. Meus pés tocavam a areia úmida da praia, mas minha alma parecia hesitar, dividida entre o desejo de seguir e o cansaço de carregar tantas visões.
+O sol já tocava a linha do horizonte. Em Jerusalém, o ponto mais alto do meio-dia se perdia, enquanto a noite avançava pelo Ganges. Onde eu estava, as cores da aurora, antes brancas e rosadas, começavam a adquirir um tom alaranjado pelo passar das horas. Eu e Virgílio ainda caminhávamos pela beira-mar, como pessoas que ponderam sobre o caminho a seguir; o coração já estava na estrada, mas o corpo ainda hesitava.
 
-De repente, algo cortou o horizonte. Um brilho, rápido como um pensamento fugaz, atravessava o mar em nossa direção. Era uma luz, não, um barco, movendo-se com uma velocidade que desafiava o vento, como se as leis da terra não o tocassem. Pisquei, tentando entender o que via, e virei-me para Virgílio, buscando respostas. Mas antes que eu pudesse falar, o brilho se intensificou, crescendo em tamanho e esplendor. O que parecia apenas um ponto luminoso agora revelava formas — asas brancas, imensas, batendo contra o ar com uma graça que não pertencia a este mundo. Meu coração disparou. Virgílio permanecia em silêncio, seus olhos fixos na aproximação daquele espetáculo celestial.
+Foi então que algo surgiu. No horizonte, sobre o mar, uma luz avermelhada brilhava de forma intensa, lembrando Marte quando o planeta é sufocado pelos vapores densos do amanhecer no poente. Aquilo se movia em nossa direção com uma velocidade impossível. Se eu voltasse a vê-la um dia, ainda assim não acreditaria no que meus olhos testemunharam: nada que voasse na terra poderia competir com aquele ritmo.
 
-_— Abaixe-se, rápido! Dobre os joelhos!_ — gritou ele, sua voz cortando o ar como uma lâmina. _— É o anjo de Deus! Junte as mãos, Dante. A partir de agora, você verá muitos como ele._
+Desviei o olhar por um breve segundo para consultar meu mestre, mas, quando voltei a encarar o mar, a luz estava maior e muito mais brilhante. Logo, notei algo branco surgindo dos dois lados daquele clarão e, abaixo dele, outra mancha clara começou a ganhar forma. Virgílio permaneceu em silêncio, observando as formas brancas se revelarem como asas imensas. Assim que ele identificou o timoneiro daquela embarcação, sua voz cortou o ar com uma urgência que me fez estremecer.
 
-Eu obedeci, sentindo o peso da reverência me curvar. O anjo, um barqueiro celestial, guiava o barco com uma majestade que tornava impossível desviar o olhar. Ele não precisava de remos; suas asas, brilhando como penas de luz, impulsionavam a embarcação por mares que nenhum mortal poderia navegar. O barco, leve como uma pluma, deslizava sobre as ondas sem afundar, como se a própria água se curvasse em respeito. À popa, o anjo se erguia, sua presença tão pura que parecia transformar o ar ao seu redor em algo sagrado. No convés, mais de cem almas, pálidas e etéreas, cantavam em uníssono. Suas vozes ecoavam como um hino antigo, “In exitu Israel de Aegypto”, as palavras do salmo enchendo o ar com uma harmonia que parecia dissolver o peso do meu peito.
+— Ajoelhe-se! Agora! — ordenou ele, enquanto eu via as penas eternas se erguerem para o céu. — Una as mãos. Você está diante de um anjo de Deus. A partir de agora, lidaremos com oficiais desse calibre. Veja como ele despreza os meios humanos. Não precisa de remos, nem de velas, nada além de suas próprias asas para cruzar distâncias tão vastas.
 
-O anjo fez o sinal da cruz, e, como se libertadas por um comando divino, as almas saltaram do barco para a praia, caindo sobre a areia com uma urgência silenciosa. O barqueiro não hesitou; com a mesma velocidade com que veio, ele partiu, suas asas cortando o horizonte até sumir na luz. As almas, agora em terra, pareciam perdidas, seus olhos vagando pela paisagem como se tentassem decifrar um enigma. O sol, já alto, lançava raios que pareciam flechas, aquecendo a areia e iluminando os rostos pálidos daquelas figuras. Eles nos viram — Virgílio e eu — e se aproximaram, hesitantes, mas com uma curiosidade que brilhava em seus olhos.
+À medida que o pássaro divino se aproximava, o brilho se tornava insuportável. Meus olhos não conseguiram sustentar o contato direto e eu precisei baixar a cabeça. A embarcação tocou a areia. Era um barco leve, veloz, tão sutil que mal parecia deslocar a água. Na popa, o navegador celestial permanecia em pé, exalando uma beatitude impossível de descrever em palavras. Dentro do barco, mais de cem almas estavam sentadas.
 
-_— Se vocês conhecem o caminho, mostrem-nos! Como chegamos à montanha?_ — perguntou uma voz entre o grupo, ansiosa, quase suplicante.
+— In exitu Israel de Aegypto — cantavam elas em uníssono, as vozes entrelaçadas em um salmo de libertação que ressoava por toda a costa.
 
-Virgílio ergueu a mão, sua expressão calma, mas firme.
+O anjo traçou sobre elas o sinal da cruz. No instante seguinte, as almas se lançaram na praia e ele partiu com a mesma rapidez com que havia chegado. O grupo que ficou para trás parecia desorientado, olhando ao redor com a curiosidade de quem tenta decifrar um ambiente novo e desconhecido. O sol já dominava o céu, disparando flechas de luz que haviam afugentado a constelação de Capricórnio para além do meridiano.
 
-_— Vocês acham que somos guias experientes deste lugar? Somos peregrinos, como vocês. Chegamos aqui há pouco, por um caminho tão árduo que subir essa montanha agora nos parece um alívio._
+Aquela gente nova levantou o olhar em nossa direção.
 
-As almas me observaram, e algo em seus rostos mudou. Um sussurro percorreu o grupo, um murmúrio de espanto. Eles perceberam que eu ainda respirava, que meu peito subia e descia com a vida que eles já não possuíam. Seus olhos se arregalaram, e alguns recuaram, pálidos, como se minha presença fosse um mistério maior do que o próprio Purgatório. A multidão se aproximou, atraída por mim como pombos famintos por migalhas, esquecendo, por um momento, sua pressa de subir a montanha.
+— Se souberem o caminho — disse um deles —, por favor, mostrem-nos como chegar ao monte.
 
-Entre eles, uma figura se destacou. Um homem, ou melhor, a sombra de um homem, avançou com um brilho nos olhos que me era familiar. Ele abriu os braços, como se quisesse me envolver em um abraço. Meu coração pulou — era Casella, meu velho amigo, o músico cuja voz outrora acalmava minhas dores. Instintivamente, tentei abraçá-lo, mas minhas mãos atravessaram sua forma, encontrando apenas o vazio. Três vezes tentei, e três vezes meus braços voltaram ao meu peito, inúteis. Ele sorriu, um sorriso suave, quase divertido, e recuou um passo.
+Virgílio deu um passo à frente, com a calma habitual de quem conhece os mistérios daquele lugar, embora a resposta tenha sido uma surpresa.
 
-_— Pare, Dante_ — disse ele, sua voz tão doce quanto eu lembrava. _— Por favor, espere um momento._
+— Vocês acreditam que somos especialistas aqui, mas somos peregrinos, assim como vocês. Chegamos há pouco, por outro caminho, uma subida tão áspera e forte que escalar este monte agora nos parecerá um passatempo.
 
-Eu parei, o choque da maravilha ainda pintando meu rosto. Era realmente ele. Minha voz tremia quando falei.
+As almas que notaram meu peito subindo e descendo, percebendo que eu ainda respirava e que o sangue corria em minhas veias, ficaram pálidas de espanto. Elas se aglomeraram ao meu redor, esquecendo-se por um momento do propósito de sua purificação, como uma multidão que cerca um mensageiro que traz notícias de paz.
 
-_— Casella, meu amigo! Como você está aqui? Por que demorou tanto para chegar?_
+Uma daquelas sombras se adiantou com tamanha demonstração de afeto para me abraçar que, por instinto, tentei retribuir o gesto.
 
-_— Nenhum mal me foi feito_ — respondeu ele, com uma calma que parecia carregar séculos. _— Aquele que decide quem cruza e quando, negou-me a passagem várias vezes. Mas, há três meses, ele abriu as portas para todos que desejassem vir, com paz. Eu estava na foz do Tibre, onde as almas se reúnem, e fui recebido por ele. Para lá ele voa agora, levando os que não descem ao Aqueronte._
+*Que ilusão.*
 
-Eu senti um aperto no peito, uma mistura de saudade e esperança. A jornada até ali havia sido tão pesada, tão cheia de sombras e remorsos, que a presença de Casella era como um raio de luz.
+Três vezes envolvi o ar com meus braços, e três vezes minhas mãos voltaram ao meu próprio peito, atravessando aquela silhueta como se ela fosse feita de fumaça. A sombra sorriu diante do meu espanto e recuou, enquanto eu, persistente, tentava segui-la.
 
-_— Se nenhuma lei nova te impede, Casella, cante para mim. Cante aquele amor que sempre acalmou minha alma. Estou tão cansado, tão sobrecarregado por tudo que vi..._
+— Por favor, descanse — disse a voz, suave e familiar.
 
-Ele não hesitou. Sua voz, clara e doce, ergueu-se como uma brisa, cantando _“Amor che ne la mente mi ragiona...”_. Cada nota parecia dissolver o peso do meu coração, como se o próprio tempo parasse para ouvir. Virgílio, ao meu lado, parecia tão cativado quanto eu, e as almas ao redor se juntaram, seus rostos iluminados por uma paz que eu não via desde que deixei o mundo dos vivos. Por um momento, o Purgatório não era um lugar de expiação, mas um refúgio onde a música podia curar.
+Naquele momento, reconheci quem era. Implorei para que ele parasse um pouco para conversar comigo.
 
-Mas a paz foi quebrada. Uma voz cortante, como um trovão, rasgou o ar. Era Catão, o guardião do Purgatório, sua figura imponente surgindo entre nós como um juiz.
+— Assim como eu te amei quando estava no corpo mortal, eu te amo agora que sou livre — respondeu ele. — Por isso eu paro. Mas e você, por que está aqui?
 
-_— O que é isso, almas preguiçosas? Que negligência é essa? Corram para a montanha! Despojem-se do peso que os impede de ver a Deus!_
+— Meu caro Casella, faço esta viagem para que possa retornar aqui uma outra vez — respondi, sentindo o peso da fadiga em meus ombros. — Mas como te levaram tanto tempo?
 
-As palavras dele foram como um chicote. As almas, como pombos assustados, abandonaram o canto e dispararam em direção à encosta, seus passos incertos, mas urgentes. Eu e Virgílio seguimos, nosso ritmo tão rápido quanto o deles, como se o próprio chão nos empurrasse para frente. A música de Casella ainda ecoava em minha mente, mas agora, diante da montanha que se erguia, alta e implacável, eu sabia que a redenção exigia mais do que canções — exigia movimento, sacrifício e um coração disposto a subir.
+— Não houve injustiça — explicou ele. — Aquele que escolhe quem e quando deve embarcar me negou a passagem várias vezes, mas sua vontade é guiada pela justiça. No entanto, nos últimos três meses, ele tem recebido todos os que desejam entrar, em paz absoluta. Eu estava na foz do Tibre, onde as águas se tornam salgadas, e lá fui acolhido benignamente por ele. É para lá que o anjo sempre volta para buscar os que não descem para o Aqueronte.
+
+Eu sentia uma necessidade profunda de conforto. O esforço físico e emocional da jornada estava cobrando seu preço.
+
+— Se a nova lei deste lugar não apagou sua memória ou sua voz — pedi a ele —, por favor, cante para mim. Acalme minha alma, que chegou aqui exausta e aflita por carregar meu próprio corpo.
+
+Casella começou a cantar com uma doçura que ainda hoje ressoa dentro de mim. *Amor que ne la mente mi ragiona.* A melodia era tão hipnótica que meu mestre, eu e todas aquelas almas ficamos imóveis, paralisados, como se nada mais no universo importasse além daquelas notas. Estávamos todos absortos, capturados pelo êxtase da música.
+
+— O que é isso, espíritos lentos? — O grito cortou a melodia como um chicote.
+
+Era o velho guardião, sua voz carregada de uma severidade antiga que não admitia réplicas.
+
+— Que negligência é essa? Por que pararam? Corram para o monte! Vão retirar essa crosta que impede que Deus se manifeste a vocês!
+
+Como pombos que colhem grãos e, ao menor sinal de perigo, abandonam a comida e levantam voo em busca de segurança, vi aquela multidão dispersar-se. Eles correram em direção à encosta, fugindo como quem parte sem saber exatamente onde vai chegar. E nós, sem outra escolha, seguimos o mesmo ritmo frenético.
