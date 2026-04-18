@@ -9,41 +9,26 @@ prev = 'divina_comedia/inferno/canto33'
 next = 'divina_comedia/purgatorio/canto2'
 +++
 
-O ar ainda cheirava a enxofre e lágrimas quando finalmente saí daquele lugar horrível, onde as sombras gritavam pra sempre de dor. Minhas pernas tremiam, não só de cansaço, mas de alívio por ver o céu de novo — um céu que não era uma maldição, mas um alívio de verdade.
+Deixei para trás aquele mar cruel. Senti a pequena embarcação do meu intelecto ganhar fôlego, içando velas para navegar por águas mais limpas, onde a alma humana se liberta do peso do erro e se torna digna de tocar o céu. O ar morto do abismo finalmente ficara para trás, mas eu ainda sentia o peso do que vira. *Preciso de uma nova força*, pensei, enquanto as musas, e em especial a voz profunda de Calíope, pareciam ecoar na minha mente, devolvendo a cor a uma poesia que quase se perdera na escuridão.
 
-Na minha frente, o horizonte era um azul tão forte que parecia limpar a alma só de olhar. O ar, que antes era pesado e cheio de desespero, agora era leve e tocava meu rosto como um sopro de Deus. No leste, *Vênus — a "doce estrela do amor"* — brilhava, pintando o amanhecer com um dourado que afastava até os pesadelos do céu.
+A atmosfera era de um azul hipnotizante, um tom de safira oriental que se estendia límpido até o horizonte. Meus olhos, cansados da névoa asfixiante do Inferno, voltaram a encontrar prazer na luz. O planeta Vênus, aquele farol que convida ao amor, fazia todo o oriente sorrir, ofuscando suavemente a constelação de Peixes que o acompanhava. Voltei-me para a direita, focando no polo oposto, e foi então que vi: quatro estrelas imensas, brilhando com uma intensidade que parecia pertencer apenas aos primeiros seres humanos. O céu parecia exultar com aquelas chamas. O Norte era um deserto órfão por não poder contemplar tamanha beleza.
 
-Olhei pro sul e vi quatro estrelas tão brilhantes que pareciam faróis no céu, guardadas só pra quem é justo. Nunca tinha visto aquelas luzes antes; ninguém do meu tempo conhecia elas. Era uma visão antiga, esquecida no tempo, e o brilho delas me deixou cheio de um respeito que não sei explicar.
+Quando desviei o olhar daquelas luzes e me voltei para o outro polo, percebi que estava acompanhado. Um homem idoso estava parado perto de mim, sozinho, exalando uma autoridade que exigiria respeito do mais devotado dos filhos. Sua barba era longa, mesclada de fios brancos que desciam até o peito em duas vertentes, combinando com o cabelo que caía sobre seus ombros. Os raios das quatro estrelas sagradas iluminavam seu rosto com tamanha clareza que ele parecia banhado pelo próprio sol.
 
-— Quem merece viver sob uma luz assim? — pensei.
+— Quem são vocês que, contra a correnteza do rio cego, fugiram da prisão eterna? — perguntou ele, movendo a barba venerável com uma gravidade que me fez estremecer. — Quem os guiou? Que lanterna foi essa que os tirou da noite profunda que torna o vale infernal sempre negro? As leis do abismo foram quebradas ou houve alguma mudança nos planos do céu para que vocês, mesmo condenados, cheguem às minhas grutas?
 
-Foi quando um homem saiu da sombra — um velho de barba branca e cabelos caindo no peito — uma presença forte. O rosto dele brilhava com o reflexo das quatro estrelas, dando a ele um ar quase sobrenatural. Antes que eu falasse, ele falou. A voz dele era grave, como um trovão longe:
+Senti a mão firme de Virgílio em meu ombro. Com gestos rápidos e palavras sussurradas, ele me instruiu a dobrar os joelhos e baixar o olhar em sinal de reverência. Só então meu guia se dirigiu ao guardião.
 
-*— Quem é você, que teve coragem de fugir do rio cego do Inferno? As regras do abismo foram quebradas? Ou será que o céu mudou de ideia e agora deixa os condenados entrarem aqui?*
+— Não vim por conta própria — explicou Virgílio, sua voz soando como um bálsamo na brisa matinal. — Uma dama desceu do céu e, atendendo aos seus apelos, acompanhei este homem para ajudá-lo. Mas, já que deseja saber a verdade sobre nossa condição, não posso me negar a explicar. Este homem ainda não viu sua última noite, embora sua própria loucura o tenha levado tão perto dela que restava pouquíssimo tempo. Fui enviado para resgatá-lo; não havia outro caminho senão este que trilhamos. Já lhe mostrei os criminosos e agora pretendo mostrar os espíritos que se purificam sob o seu domínio. Explicar como o trouxe até aqui seria longo demais; basta saber que uma virtude desce do alto para me ajudar a conduzi-lo. Peço que aceite a vinda dele. Ele busca a liberdade, algo tão caro quanto sabe quem por ela sacrifica a própria vida. Você entende isso, pois em Útica a morte não lhe foi amarga, deixando lá a vestimenta carnal que brilhará no dia do julgamento. Não estamos quebrando as leis eternas. Ele vive, e Minos não tem poder sobre mim. Pertenço ao círculo onde estão os olhos castos de sua Márcia, que em seu semblante ainda parece implorar, ó peito sagrado, que a considere sua. Pelo amor dela, permita-nos atravessar seus sete reinos. Levarei notícias suas a ela, se aceitar ser mencionado naquele lugar.
 
-Virgílio, meu guia, apertou meu braço forte e, antes que eu reagisse, já se curvava em respeito, puxando-me pra fazer o mesmo.
+O velho guardião manteve a expressão imperturbável, embora houvesse uma suavidade quase imperceptível em seu olhar.
 
-— Não viemos porque quisemos — disse ele, firme. — Uma mulher desceu do céu e, por causa das orações dela, fui enviado pra guiar esse homem. Ele ainda não enfrentou a morte final, mas chegou tão perto dela por causa da própria loucura que quase foi tarde demais.
+— Márcia agradou tanto aos meus olhos enquanto vivi — respondeu ele —, que fiz todas as vontades que ela teve. Agora que ela habita além do rio maldito, não pode mais me mover, por causa da lei que foi estabelecida quando saí de lá. Mas, se uma dama do céu o move e governa, como você diz, não precisa de lisonjas. Basta que peça em nome dela. Vá agora. Providencie para que ele seja cingido com um junco liso e que lave o rosto, para que toda a sujeira do inferno seja removida. Não seria adequado comparecer diante do primeiro ministro do paraíso com os olhos nublados pela névoa daquele abismo. Esta ilha, em sua base mais baixa, onde as ondas batem contra a lama, produz juncos. Nenhuma outra planta que tenha folhas ou que endureça seu caule poderia sobreviver ali, pois não cederia ao impacto das águas. Depois disso, não voltem por aqui. O sol, que já começa a surgir, mostrará a vocês o caminho mais fácil para subir a montanha.
 
-O velho ficou sério, mas algo no olhar dele mudou ao ouvir isso. Virgílio continuou, agora mais calmo, quase falando como um diplomata:
+Ele desapareceu tão subitamente quanto surgira. Levantei-me em silêncio e me aproximei de Virgílio, buscando seu olhar em busca de direção.
 
-— Ele quer liberdade, algo que você conhece bem, Catão. Afinal, não foi por isso que você deu a vida em Útica, deixando pra trás o manto que vai brilhar no Juízo Final?
+— Siga meus passos, filho — disse ele, voltando-se. — Vamos retornar, pois esta planície declina em direção aos seus limites mais baixos.
 
-O nome ecoou dentro de mim como um trovão. *Catão de Útica.* O homem que preferiu morrer a viver sob tirania. Um defensor da liberdade até o fim.
+A luz da aurora começava a vencer a última hora da madrugada, que fugia diante dela. Ao longe, percebi o brilho trêmulo do mar, um reflexo que me trouxe uma esperança quase esquecida. Caminhamos pela planície solitária como alguém que tenta reencontrar uma estrada perdida e sente que cada passo é inútil até alcançá-la. Quando chegamos a um ponto onde o orvalho ainda resistia ao sol, em uma parte sombreada pela brisa, meu mestre espalhou as duas mãos suavemente sobre a grama úmida. Percebi imediatamente o que ele pretendia. Estendi minhas faces ainda manchadas pelo pranto e pelo suor do Inferno, e ele, com uma delicadeza paternal, revelou a cor que a escuridão havia escondido.
 
-O velho pareceu pensar por um momento, os olhos presos a uma lembrança distante.
-
-— Márcia... — murmurou, como se o nome ainda doesse. — Ela não pode mais me comover, não além do rio que separa os mundos. Mas, se uma dama do céu pediu por vocês, não precisam implorar. A vontade dela basta.
-
-A expressão dele ficou mais suave, mesmo com o corpo firme, como uma espada cravada no chão.
-
-— Purifica ele — ordenou, olhando pra Virgílio. — Adorna ele com um junco simples e lava o rosto dele, pra que nenhuma marca do Inferno fique quando ele estiver diante do primeiro ministro do Paraíso.
-
-Antes que a gente falasse qualquer coisa, ele sumiu como neblina levada pelo vento.
-
-Sem dizer nada, segui Virgílio até a praia deserta, onde as ondas batiam devagar na areia. Ele colheu um junco — e, num milagre silencioso, a planta brotou de novo assim que foi arrancada, como se a terra do Purgatório não deixasse nada morrer.
-
-Enquanto ele me adornava com o talo verde, senti um peso sair de mim. As lágrimas que caíram não eram de dor, mas de algo mais raro: *esperança*
-*.
-
-O sol já subia, iluminando o caminho à frente — um caminho difícil, mas que, pela primeira vez desde que entrei na escuridão, parecia levar a um lugar que valia a pena.
+Chegamos, finalmente, à praia deserta, a margem de águas que jamais viram um homem navegar e conseguir retornar. Ali, ele me cingiu com o junco, seguindo a vontade do guardião. E foi então que o impossível aconteceu. *Um milagre*, pensei, maravilhado. No exato momento em que Virgílio colheu a planta humilde, outra idêntica renasceu instantaneamente no mesmo lugar, como se a própria terra se recusasse a ficar ferida.
