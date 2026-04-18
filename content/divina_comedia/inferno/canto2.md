@@ -12,7 +12,7 @@ weight = 2
 
 O dia estava chegando ao fim. O céu assumia um tom acobreado antes de mergulhar no cinza, e a escuridão que avançava trazia o repouso para todos os seres vivos da terra. O silêncio começava a dominar o vale, mas, para mim, não haveria descanso. Eu me preparava, sozinho, para uma guerra — não contra homens, mas contra o cansaço do caminho e a angústia da compaixão que, logo mais, minha memória teria o fardo de reescrever com precisão absoluta.
 
-*Preciso de força. Musas, gênio superior, ajudem-me agora. Memória, que registraste cada detalhe do que vi, aqui será provada a tua nobreza.*
+Preciso de força. Musas, gênio superior, ajudem-me agora. Memória, que registraste cada detalhe do que vi, aqui será provada a tua nobreza.
 
 Enquanto caminhávamos pela penumbra, a dúvida começou a corroer minha determinação. Olhei para a silhueta firme de Virgílio à minha frente e decidi falar.
 
@@ -34,19 +34,19 @@ Ele se aproximou, e seu tom de voz suavizou, embora mantivesse a urgência.
 
 Virgílio fechou os olhos por um segundo, como se revivesse a cena.
 
-— Ela me disse: "Ó espírito gentil de Mântua, cuja fama ainda ecoa no mundo e durará enquanto o tempo existir. Um amigo meu, movido pelo amor e não pelo destino, encontrou um obstáculo naquela encosta deserta. Ele está tão perdido e aterrorizado que temo ter me levantado tarde demais para ajudá-lo, pelo que ouvi sobre ele no céu. Vá agora. Use sua eloquência, use tudo o que for necessário para salvá-lo, para que eu possa ter paz. Eu sou Beatriz. Venho de um lugar para o qual desejo voltar. Foi o amor que me trouxe aqui e é ele quem me faz falar. Quando eu estiver diante do meu Senhor, falarei bem de você para Ele".
+— Ela me disse: "Espírito gentil de Mântua, cuja fama ainda ecoa no mundo e durará enquanto o tempo existir. Um amigo meu, movido pelo amor e não pelo destino, encontrou um obstáculo naquela encosta deserta. Ele está tão perdido e aterrorizado que temo ter me levantado tarde demais para ajudá-lo, pelo que ouvi sobre ele no céu. Vá agora. Use sua eloquência, use tudo o que for necessário para salvá-lo, para que eu possa ter paz. Eu sou Beatriz. Venho de um lugar para o qual desejo voltar. Foi o amor que me trouxe aqui e é ele quem me faz falar. Quando eu estiver diante do meu Senhor, falarei bem de você para Ele".
 
 Virgílio fez uma pausa, observando minha reação, antes de continuar o relato do diálogo.
 
-— Ela se calou, e eu respondi: "Ó mulher de virtude, a única por quem a espécie humana supera tudo o que existe no céu de menor órbita, sua ordem me agrada tanto que, se eu já tivesse obedecido, ainda me pareceria tarde. Não precisa dizer mais nada. Mas diga-me: como não teve medo de descer até este centro, vindo de um lugar tão vasto que arde de desejo de retornar?". Ela me explicou com brevidade que só devemos temer aquilo que tem o poder de nos causar dano real. Que, pela graça de Deus, ela foi feita de tal forma que a nossa miséria não a toca, nem as chamas deste incêndio a atingem.
+— Ela se calou, e eu respondi: "Mulher de virtude, a única por quem a espécie humana supera tudo o que existe no céu de menor órbita, sua ordem me agrada tanto que, se eu já tivesse obedecido, ainda me pareceria tarde. Não precisa dizer mais nada. Mas me diga: como não teve medo de descer até este centro, vindo de um lugar tão vasto que arde de desejo de retornar?". Ela me explicou com brevidade que só devemos temer aquilo que tem o poder de nos causar dano real. Que, pela graça de Deus, ela foi feita de tal forma que a nossa miséria não a toca, nem as chamas deste incêndio a atingem.
 
 O relato de Virgílio ficava cada vez mais dinâmico, revelando uma conspiração celestial em meu favor.
 
-— Beatrice me contou que existe uma Mulher Nobre no céu que lamenta tanto o seu impedimento que conseguiu quebrar o rigor do julgamento divino. Ela chamou Lúcia e disse: "Seu fiel agora precisa de você, e eu o recomendo a ti". Lúcia, a inimiga de toda crueldade, veio até onde Beatriz estava sentada ao lado da antiga Raquel e disse: "Beatriz, verdadeiro louvor de Deus, por que não ajuda aquele que te amou tanto e que, por você, saiu da multidão comum? Não ouve a angústia do pranto dele? Não vê a morte que ele combate sobre aquele rio onde o mar não tem vantagem?".
+— Beatriz me contou que existe uma Mulher Nobre no céu que lamenta tanto o seu impedimento que conseguiu quebrar o rigor do julgamento divino. Ela chamou Lúcia e disse: "Seu fiel agora precisa de você, e eu o recomendo a você". Lúcia, a inimiga de toda crueldade, veio até onde Beatriz estava sentada ao lado da antiga Raquel e disse: "Beatriz, verdadeiro louvor de Deus, por que não ajuda aquele que te amou tanto e que, por você, saiu da multidão comum? Não ouve a angústia do pranto dele? Não vê a morte que ele combate sobre aquele rio onde o mar não tem vantagem?".
 
 Virgílio deu um passo à frente, gesticulando com as mãos.
 
-— No mundo, ninguém jamais foi tão rápido em buscar o próprio lucro ou fugir do perigo quanto ela foi ao descer de seu trono abençoado, confiando na minha palavra honesta. E, depois de me dizer tudo isso, ela desviou os olhos brilhantes, cheios de lágrimas, o que me fez querer vir ainda mais rápido. Cheguei até você exatamente como ela quis. Eu o tirei da frente daquela fera que bloqueava o caminho curto para a montanha.
+— No mundo, ninguém jamais foi tão rápido em buscar o próprio lucro ou fugir do perigo quanto ela foi ao descer de seu trono abençoado, confiando na minha palavra honesta. E, depois de me dizer tudo isso, ela desviou os olhos brilhantes, cheios de lágrimas, o que me fez querer vir ainda mais rápido. Cheguei até você exatamente como ela quis. Eu tirei você da frente daquela fera que bloqueava o caminho curto para a montanha.
 
 Ele me encarou fixamente, o olhar carregado de um desafio paternal.
 
