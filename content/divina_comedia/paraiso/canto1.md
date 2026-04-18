@@ -13,28 +13,30 @@ _Seguindo as teorias de Ptolomeu, Dante coloca a Terra imóvel no centro do univ
 
 ---
 
-Quando a luz da manhã tocou minha pele, algo em mim mudou. Não era só o brilho do sol. Era como se minha existência inteira fosse puxada por uma força que eu não conseguia resistir — leve, mas impossível de ignorar. A presença daquele que move todas as coisas atravessava o universo, preenchendo tudo, com mais ou menos intensidade, conforme a pureza do lugar que recebia essa luz. E ali, no ponto mais próximo dessa fonte infinita, eu estava.
+A glória Daquele que move tudo penetra o universo e resplandece mais numa parte e menos noutra. Eu estive no céu que mais recebe a sua luz e vi coisas que quem desce de lá não sabe nem pode repetir — porque, ao se aproximar do seu desejo, nosso intelecto se aprofunda tanto que a memória não consegue acompanhar. No entanto, tudo o que pude guardar do reino santo será agora a matéria do meu canto.
 
-Beatriz, ao meu lado, parecia ainda mais iluminada, como se fizesse parte daquela luz. Olhei ao redor, e o que vi era impossível de descrever. Nenhuma mente humana conseguiria entender aquilo. Quando a gente se aproxima do que mais deseja, entra num espaço tão imenso que até a memória se perde.
+Ó bom Apolo, para esta última empreitada faze de mim um vaso do teu valor, como exiges para dar o louro amado. Até aqui me bastou um dos picos de Parnaso; mas agora preciso de ambos para entrar na arena que resta. Entra no meu peito e inspira como quando arrancaste Márcias da bainha dos seus membros. Ó virtude divina, se me concedes tanto que eu manifeste a sombra do reino bem-aventurado gravada na minha mente, ver-me-ás chegar ao pé da tua árvore predileta e coroar-me com as folhas que o tema e tu me tornarás digno. Tão raramente, ó pai, se colhem essas folhas para o triunfo de um césar ou de um poeta — culpa e vergonha dos desejos humanos — que a fronda peneia deveria gerar alegria na alegre divindade délfica quando alguém se mostra sedento dela. Pequena faísca segue-se grande chama: talvez atrás de mim, com melhores vozes, se rogue para que Cirra responda.
 
-Ali, naquele lugar de luz e entendimento, percebi que qualquer parte do que eu conseguisse trazer de volta já seria suficiente para se tornar o centro do que eu teria a dizer. Mas eu sabia que não conseguiria sozinho. Então, pedi ajuda a Apolo, o deus da poesia:
+A lâmpada do mundo surge aos mortais por diferentes bocas; mas daquela que une quatro círculos com três cruzes, sai combinada com melhor curso e melhor estrela, e tempera e sela a cera mundana mais ao seu modo. A manhã estava lá, aqui a tarde, naquela passagem, e quase todo aquele hemisfério era branco enquanto a outra parte era negra, quando vi Beatriz voltada para o lado esquerdo e fitando o sol — águia jamais se fixou tanto nele. E assim como um segundo raio costuma sair do primeiro e subir, como um peregrino que quer voltar, assim, do seu ato infundido nos meus olhos, o meu se fez e fixou os olhos no sol além do nosso costume. Muito é permitido lá, que aqui não é concedido às nossas faculdades, graças ao lugar feito próprio para a espécie humana.
 
-_— Apolo, me inspira com a força que arrancou a pele de Mársias. Me dá condições de mostrar aos outros o que estou prestes a ver. Me ajuda a transformar em palavras a lembrança do que ficou gravado em mim._
+Eu não suportei aquilo por muito tempo, nem tão pouco que não visse faíscas em redor como ferro que ferve saindo do fogo — e de repente pareceu que dia se juntava a dia, como se quem pode tivesse adornado o céu com outro sol. Beatriz permanecia com os olhos fixos nas rodas eternas; e eu fixei os meus nela, dali para cima. No seu olhar tornei-me interiormente como Glauco ao provar da erva que o fez consorte dos outros deuses no mar. Transumanar não se pode significar com palavras; mas que o exemplo baste a quem a graça reserva a experiência.
 
-Se eu conseguisse fazer isso, estaria no caminho do madeiro sagrado — e talvez fosse digno da coroa de louros. Até aqui, só uma das montanhas do Parnaso tinha bastado. Mas agora, eu precisava das duas. Precisava de toda a força possível.
+_Se eu era apenas daquilo que criaste novamente_, pensei, _ó amor que governas o céu, tu o sabes, que com tua luz me elevaste._
 
-Beatriz, como sempre, parecia entender o que eu sentia. Com os olhos fixos no sol e uma postura serena, ela enxergava algo que ainda escapava de mim — como uma águia que encara a luz sem desviar. Observei seu exemplo e, sem perceber, meus olhos também se voltaram para o sol, passando do limite do que é permitido aos mortais.
+Quando a roda que tu tornas eterna pelo desejo me fez atento a mim com a harmonia que tu temperas e distingues, pareceu-me então tão aceso o céu pela chama do sol que nem chuva, rio ou lago fez tão vasta extensão. A novidade do som e a grande luz acenderam em mim um desejo nunca sentido, de tal modo agudo.
 
-Foi então que tudo mudou. A luz do sol parecia se multiplicar, como se outro dia estivesse nascendo. A claridade era tão intensa que senti meu corpo envolvido por uma energia difícil de conter. Minha mente queimava, como ferro saindo do fogo. E, num instante de total clareza, percebi que estávamos subindo.
+Então ela, que me via como eu era, para acalmar minha alma comovida, abriu a boca antes que eu perguntasse, e começou:
 
-Beatriz percebeu minha confusão. Virou-se para mim e disse, com calma:
+— Tu mesmo te tornas obtuso com o falso imaginar, de modo que não vês o que verias se o tivesses sacudido. Tu não estás na Terra como pensas; mas um raio, fugindo do seu lugar, não corre como tu, que para ele retornas.
 
-_— Sua imaginação está te enganando. Já não estamos mais na Terra. A velocidade com que subimos é mais rápida que o raio que corta o céu._
+Afastado da primeira dúvida por aquelas palavrinhas sorridentes e breves, caí enredado numa nova, e disse:
 
-A firmeza na voz dela me trouxe de volta ao foco, mas ainda me restava uma dúvida: como era possível subir entre os astros sem sentir nada? Meu corpo, que até então sentia o peso da gravidade, agora parecia leve, como se flutuasse entre as estrelas.
+— Já me aquietara de grande admiração; mas agora admiro como ultrapasso estes corpos leves.
 
-Ela respirou fundo, como quem tranquiliza uma criança. E, com os olhos cheios de compreensão, disse:
+Então ela, após um suspiro piedoso, ergueu os olhos para mim com aquele semblante que uma mãe faz sobre o filho delirante, e prosseguiu:
 
-_— Tudo no universo obedece a uma ordem. É essa ordem que faz as coisas se parecerem com Deus. Cada criatura, de acordo com sua natureza, vai para o lugar que lhe corresponde — na Terra ou no céu. Esse movimento é tão natural quanto o fogo que sobe ou a pedra que cai. Não devia se surpreender por estar subindo. O que seria estranho seria continuar parado, como uma chama viva presa ao chão._
+— Todas as coisas têm ordem entre si, e esta é a forma que torna o universo semelhante a Deus. Aqui as altas criaturas veem a pegada do valor eterno, que é o fim para o qual se faz a norma tocada. Nessa ordem que digo, todas as naturezas se inclinam, por diferentes sortes, mais ou menos próximas do seu princípio; por isso se movem para portos diversos pelo grande mar do ser, cada uma com o instinto que lhe foi dado e que a conduz. Esse instinto leva o fogo para a lua; é o motor dos corações mortais; estreita e une a terra em si mesma. E não apenas as criaturas privadas de inteligência são flechadas por este arco, mas também aquelas que têm intelecto e amor. A Providência, que tudo dispõe assim, com sua luz torna quieto para sempre o céu onde gira o que tem maior pressa; e agora, como para um local decretado, nos leva a força dessa corda que direciona ao alvo feliz tudo o que dispara.
 
-As palavras dela fizeram total sentido. Olhei para o céu, agora sem fim, e entendi que não havia mais volta. Estávamos sendo levados por uma força maior que tudo — invisível, mas impossível de resistir — que nos puxava em direção à luz eterna.
+É verdade que, assim como a forma muitas vezes não se harmoniza com a intenção da arte porque a matéria é surda a responder, assim dessa rota se desvia às vezes a criatura que tem poder de se curvar, pintada, para outra parte; e como se pode ver fogo cair de uma nuvem, assim o ímpeto primeiro é desviado por falso prazer. Não deves admirar mais, se bem avalio, a tua subida do que a de um rio que do alto da montanha desce até o fundo. Seria maravilhoso em ti se, livre de impedimento, tivesses ficado embaixo, como a terra quieta em fogo vivo.
+
+Então ela voltou o rosto para o céu.
